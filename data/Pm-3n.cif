@@ -1,0 +1,149 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EJAKUY04
+_audit_creation_date 2021-02-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EJAKUY04
+_database_code_depnum_ccdc_archive 'CCDC 2006477'
+_chemical_formula_sum 'B12 Cl12 Cs2'
+_chemical_formula_moiety
+;
+B12 Cl12 2-,2(Cs1 1+)
+;
+_journal_coden_Cambridge 3025
+_journal_volume 75
+_journal_year 2020
+_journal_page_first 777
+_journal_name_full 'Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische Chemie '
+loop_
+_publ_author_name
+"I.Tiritiris"
+"K.U.Barei"
+"T.Schleid"
+_chemical_name_systematic
+;
+di-cesium dodecachloro-closo-dodecaborate
+;
+_cell_volume   1164.186
+_exptl_crystal_density_diffrn 2.342
+_exptl_special_details
+;
+beta polymorph
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0376
+_refine_ls_wR_factor_gt 0.0376
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P m -3 n'
+_symmetry_Int_Tables_number 223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-y,-z
+3 -x,-y,z
+4 -x,y,-z
+5 1/2-y,1/2+x,1/2+z
+6 1/2+y,1/2+x,1/2-z
+7 1/2+y,1/2-x,1/2+z
+8 1/2-y,1/2-x,1/2-z
+9 y,z,x
+10 -y,-z,x
+11 y,-z,-x
+12 -y,z,-x
+13 1/2-z,1/2+y,1/2+x
+14 1/2-z,1/2-y,1/2-x
+15 1/2+z,1/2-y,1/2+x
+16 1/2+z,1/2+y,1/2-x
+17 z,x,y
+18 -z,x,-y
+19 -z,-x,y
+20 z,-x,-y
+21 1/2-x,1/2-z,1/2-y
+22 1/2-x,1/2+z,1/2+y
+23 1/2+x,1/2-z,1/2+y
+24 1/2+x,1/2+z,1/2-y
+25 -x,-y,-z
+26 -x,y,z
+27 x,y,-z
+28 x,-y,z
+29 -1/2+y,-1/2-x,-1/2-z
+30 -1/2-y,-1/2-x,-1/2+z
+31 -1/2-y,-1/2+x,-1/2-z
+32 -1/2+y,-1/2+x,-1/2+z
+33 -y,-z,-x
+34 y,z,-x
+35 -y,z,x
+36 y,-z,x
+37 -1/2+z,-1/2-y,-1/2-x
+38 -1/2+z,-1/2+y,-1/2+x
+39 -1/2-z,-1/2+y,-1/2-x
+40 -1/2-z,-1/2-y,-1/2+x
+41 -z,-x,-y
+42 z,-x,y
+43 z,x,-y
+44 -z,x,y
+45 -1/2+x,-1/2+z,-1/2+y
+46 -1/2+x,-1/2-z,-1/2-y
+47 -1/2-x,-1/2+z,-1/2-y
+48 -1/2-x,-1/2-z,-1/2+y
+_cell_length_a 10.5198(6)
+_cell_length_b 10.5198(6)
+_cell_length_c 10.5198(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+B 0.83
+Cl 0.99
+Cs 2.44
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cs1 Cs 0.25000 0.00000 0.50000
+B1 B 0.00000 0.0844(4) 0.1380(4)
+Cl1 Cl 0.00000 0.16755(13) 0.28621(12)
+B1B B 0.00000 -0.0844(4) 0.1380(4)
+Cl1B Cl 0.00000 -0.16755(13) 0.28621(12)
+B1H B 0.08440 0.1380(4) 0.0000(4)
+Cl1H Cl 0.16755 0.28621(13) 0.00000(12)
+B1K B -0.08440 0.1380(4) 0.0000(4)
+Cl1K Cl -0.16755 0.28621(13) 0.00000(12)
+B1P B 0.13800 0.0000(4) 0.0844(4)
+Cl1P Cl 0.28621 0.00000(13) 0.16755(12)
+B1R B -0.13800 0.0000(4) 0.0844(4)
+Cl1R Cl -0.28621 0.00000(13) 0.16755(12)
+B1C B 0.00000 0.0844(4) -0.1380(4)
+Cl1C Cl 0.00000 0.16755(13) -0.28621(12)
+B1I B -0.08440 -0.1380(4) 0.0000(4)
+Cl1I Cl -0.16755 -0.28621(13) 0.00000(12)
+B1J B 0.08440 -0.1380(4) 0.0000(4)
+Cl1J Cl 0.16755 -0.28621(13) 0.00000(12)
+B1Q B -0.13800 0.0000(4) -0.0844(4)
+Cl1Q Cl -0.28621 0.00000(13) -0.16755(12)
+B1S B 0.13800 0.0000(4) -0.0844(4)
+Cl1S Cl 0.28621 0.00000(13) -0.16755(12)
+B1A B 0.00000 -0.0844(4) -0.1380(4)
+Cl1A Cl 0.00000 -0.16755(13) -0.28621(12)
+#END

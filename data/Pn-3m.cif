@@ -1,0 +1,328 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_BALZUJ
+_audit_creation_date 1982-03-29
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD BALZUJ
+_chemical_formula_sum 'C24 H16 O16 Re4'
+_chemical_formula_moiety
+;
+2(C6 H6),C12 H4 O16 Re4
+;
+_journal_coeditor_code "IUCr A20382"
+_journal_coden_Cambridge 107
+_journal_volume 37
+_journal_year 1981
+_journal_page_first 2062
+_journal_name_full 'Acta Crystallogr.,Sect.B:Struct.Crystallogr.Cryst.Chem. '
+loop_
+_publ_author_name
+"B.Nuber"
+"F.Oberdorfer"
+"M.L.Ziegler"
+_chemical_name_systematic
+;
+tetrakis(Tricarbonyl-(\m~3~-hydroxo)-rhenium) benzene solvate
+;
+_cell_volume   1459.432
+_exptl_crystal_density_diffrn 2.96
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.029
+_refine_ls_wR_factor_gt 0.029
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P n 3 m'
+_symmetry_Int_Tables_number 224
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 1/2+x,1/2+y,-z
+5 1/2+z,1/2+x,-y
+6 1/2+y,1/2+z,-x
+7 -x,1/2+y,1/2+z
+8 -z,1/2+x,1/2+y
+9 -y,1/2+z,1/2+x
+10 1/2-x,y,1/2-z
+11 1/2-z,x,1/2-y
+12 1/2-y,z,1/2-x
+13 y,x,z
+14 x,z,y
+15 z,y,x
+16 1/2+y,1/2+x,-z
+17 1/2+x,1/2+z,-y
+18 1/2+z,1/2+y,-x
+19 1/2+y,-x,1/2+z
+20 1/2+x,-z,1/2+y
+21 1/2+z,-y,1/2+x
+22 y,1/2-x,1/2-z
+23 x,1/2-z,1/2-y
+24 z,1/2-y,1/2-x
+25 -x,-y,-z
+26 -z,-x,-y
+27 -y,-z,-x
+28 -1/2-x,-1/2-y,z
+29 -1/2-z,-1/2-x,y
+30 -1/2-y,-1/2-z,x
+31 x,-1/2-y,-1/2-z
+32 z,-1/2-x,-1/2-y
+33 y,-1/2-z,-1/2-x
+34 -1/2+x,-y,-1/2+z
+35 -1/2+z,-x,-1/2+y
+36 -1/2+y,-z,-1/2+x
+37 -y,-x,-z
+38 -x,-z,-y
+39 -z,-y,-x
+40 -1/2-y,-1/2-x,z
+41 -1/2-x,-1/2-z,y
+42 -1/2-z,-1/2-y,x
+43 -1/2-y,x,-1/2-z
+44 -1/2-x,z,-1/2-y
+45 -1/2-z,y,-1/2-x
+46 -y,-1/2+x,-1/2+z
+47 -x,-1/2+z,-1/2+y
+48 -z,-1/2+y,-1/2+x
+_cell_length_a 11.343(2)
+_cell_length_b 11.343(2)
+_cell_length_c 11.343(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+O 0.68
+Re 1.35
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Re1 Re 0.14141 0.14141 0.14141
+O1 O 0.16720 0.16720 0.33280
+C1 C 0.14050 0.14050 -0.02430
+O2 O 0.14020 0.14020 -0.12900
+C2 C 0.50000 0.41460 0.58540
+O1A O 0.33280 0.16720 0.16720
+O1B O 0.16720 0.33280 0.16720
+C1A C -0.02430 0.14050 0.14050
+C1B C 0.14050 -0.02430 0.14050
+Re1DA Re 0.14141 0.35859 0.35859
+Re1I Re 0.35859 0.14141 0.35859
+Re1AA Re 0.35859 0.35859 0.14141
+O2A O -0.12900 0.14020 0.14020
+O2B O 0.14020 -0.12900 0.14020
+O1AA O 0.33280 0.33280 0.33280
+C1DA C 0.14050 0.35950 0.52430
+C1EA C -0.02430 0.35950 0.35950
+C1FA C 0.14050 0.52430 0.35950
+C1I C 0.35950 0.14050 0.52430
+C1J C 0.52430 0.14050 0.35950
+C1K C 0.35950 -0.02430 0.35950
+C1AA C 0.35950 0.35950 -0.02430
+C1BA C 0.52430 0.35950 0.14050
+C1CA C 0.35950 0.52430 0.14050
+O2DA O 0.14020 0.35980 0.62900
+O2EA O -0.12900 0.35980 0.35980
+O2FA O 0.14020 0.62900 0.35980
+O2I O 0.35980 0.14020 0.62900
+O2J O 0.62900 0.14020 0.35980
+O2K O 0.35980 -0.12900 0.35980
+O2AA O 0.35980 0.35980 -0.12900
+O2BA O 0.62900 0.35980 0.14020
+O2CA O 0.35980 0.62900 0.14020
+C2Y C 0.41460 0.50000 0.58540
+C2Z C 0.58540 0.41460 0.50000
+C2B C 0.41460 0.58540 0.50000
+C2A C 0.58540 0.50000 0.41460
+C2X C 0.50000 0.58540 0.41460
+#END
+
+data_CSD_CIF_FLOHMN01
+_audit_creation_date 1996-04-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD FLOHMN01
+_chemical_formula_sum 'C24 H16 Mn4 O16'
+_chemical_formula_moiety
+;
+C12 H4 Mn4 O16,2(C6 H6)
+;
+_journal_coden_Cambridge 186
+_journal_year 1995
+_journal_page_first 2233
+_journal_name_full 'J.Chem.Soc.,Dalton Trans. '
+loop_
+_publ_author_name
+"S.B.Copp"
+"K.T.Holman"
+"J.O.S.Sangster"
+"S.Subramanian"
+"M.J.Zaworotko"
+_chemical_name_systematic
+;
+tetrakis((\m~3~-Hydroxo)-tricarbonyl-manganese(i)) benzene clathrate
+;
+_chemical_melting_point 373.15
+_cell_volume   1422.765
+_exptl_crystal_colour 'orange-brown'
+_exptl_crystal_density_diffrn 1.82
+_exptl_special_details
+;
+Melts with decomposition.
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.042
+_refine_ls_wR_factor_gt 0.042
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P n 3 m'
+_symmetry_Int_Tables_number 224
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,1/2+x,1/2+z
+3 x,1/2-y,1/2-z
+4 z,x,y
+5 1/2-x,1/2-y,z
+6 1/2+y,1/2+x,-z
+7 -x,1/2+z,1/2+y
+8 1/2+y,-x,1/2+z
+9 1/2-x,y,1/2-z
+10 1/2-z,1/2-x,y
+11 -y,-x,-z
+12 1/2+x,-z,1/2+y
+13 z,1/2-x,1/2-y
+14 -x,-z,-y
+15 1/2-z,x,1/2-y
+16 1/2+x,1/2+z,-y
+17 y,z,x
+18 1/2-z,y,1/2-x
+19 -z,1/2+y,1/2+x
+20 1/2+z,1/2+y,-x
+21 y,1/2-z,1/2-x
+22 -z,-y,-x
+23 1/2-y,z,1/2-x
+24 1/2-y,1/2-z,x
+25 -x,-y,-z
+26 y,-1/2-x,-1/2-z
+27 -x,-1/2+y,-1/2+z
+28 -z,-x,-y
+29 -1/2+x,-1/2+y,-z
+30 -1/2-y,-1/2-x,z
+31 x,-1/2-z,-1/2-y
+32 -1/2-y,x,-1/2-z
+33 -1/2+x,-y,-1/2+z
+34 -1/2+z,-1/2+x,-y
+35 y,x,z
+36 -1/2-x,z,-1/2-y
+37 -z,-1/2+x,-1/2+y
+38 x,z,y
+39 -1/2+z,-x,-1/2+y
+40 -1/2-x,-1/2-z,y
+41 -y,-z,-x
+42 -1/2+z,-y,-1/2+x
+43 z,-1/2-y,-1/2-x
+44 -1/2-z,-1/2-y,x
+45 -y,-1/2+z,-1/2+x
+46 z,y,x
+47 -1/2+y,-z,-1/2+x
+48 -1/2+y,-1/2+z,-x
+_cell_length_a 11.2472(4)
+_cell_length_b 11.2472(4)
+_cell_length_c 11.2472(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 2
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mn 1.35
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1 Mn 0.64951(7) 0.64951 0.64951
+O1 O 0.82950 0.6705(3) 0.67050
+C1 C 0.6481(3) 0.64810 0.4882(5)
+O2 O 0.6444(3) 0.64440 0.3879(4)
+C2 C 0.5488(5) 0.54880 0.0984(6)
+H1 H 0.590(6) 0.59000 0.177(8)
+H2 H 0.86500 0.635(6) 0.63500
+O1H O 0.67050 0.6705(3) 0.82950
+O1C O 0.67050 0.8295(3) 0.67050
+C1C C 0.4882(3) 0.64810 0.6481(5)
+C1P C 0.6481(3) 0.48820 0.6481(5)
+Mn1D Mn 0.85049(7) 0.85049 0.64951
+Mn1H Mn 0.85049(7) 0.64951 0.85049
+Mn1B Mn 0.64951(7) 0.85049 0.85049
+H2H H 0.63500 0.635(6) 0.86500
+H2C H 0.63500 0.865(6) 0.63500
+O2C O 0.3879(3) 0.64440 0.6444(4)
+O2P O 0.6444(3) 0.38790 0.6444(4)
+O1B O 0.82950 0.8295(3) 0.82950
+C1D C 0.8519(3) 0.85190 0.4882(5)
+C1I C 1.0118(3) 0.85190 0.6481(5)
+C1W C 0.8519(3) 1.01180 0.6481(5)
+C1H C 0.8519(3) 0.64810 1.0118(5)
+C1V C 0.8519(3) 0.48820 0.8519(5)
+C1N C 1.0118(3) 0.64810 0.8519(5)
+C1B C 0.6481(3) 0.85190 1.0118(5)
+C1T C 0.6481(3) 1.01180 0.8519(5)
+C1L C 0.4882(3) 0.85190 0.8519(5)
+H2B H 0.86500 0.865(6) 0.86500
+O2D O 0.8556(3) 0.85560 0.3879(4)
+O2I O 1.1121(3) 0.85560 0.6444(4)
+O2W O 0.8556(3) 1.11210 0.6444(4)
+O2H O 0.8556(3) 0.64440 1.1121(4)
+O2V O 0.8556(3) 0.38790 0.8556(4)
+O2N O 1.1121(3) 0.64440 0.8556(4)
+O2B O 0.6444(3) 0.85560 1.1121(4)
+O2T O 0.6444(3) 1.11210 0.8556(4)
+O2L O 0.3879(3) 0.85560 0.8556(4)
+C2F C 0.4512(5) 0.59840 0.0488(6)
+C2LA C 0.5984(5) 0.45120 0.0488(6)
+C2N C 0.4016(5) 0.54880 -0.0488(6)
+H1F H 0.410(6) 0.67700 0.090(8)
+C2T C 0.5488(5) 0.40160 -0.0488(6)
+H1LA H 0.677(6) 0.41000 0.090(8)
+C2J C 0.4512(5) 0.45120 -0.0984(6)
+H1N H 0.323(6) 0.59000 -0.090(8)
+H1T H 0.590(6) 0.32300 -0.090(8)
+H1J H 0.410(6) 0.41000 -0.177(8)
+#END

@@ -1,0 +1,6913 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_CAQQUG
+_audit_creation_date 2000-05-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD CAQQUG
+_database_code_depnum_ccdc_archive 'CCDC 142936'
+_chemical_formula_sum 'C8 H26 Mo6 N2 O20'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Mo6 O19 2-,H2 O1
+;
+_journal_coeditor_code "IUCr QB0170"
+_journal_data_validation_number IUC0000022
+_journal_coden_Cambridge 591
+_journal_volume 56
+_journal_year 2000
+_journal_page_first e55
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"Dingming Wu"
+"Sheng Wang"
+"Xiang Lin"
+"Canzhong Lu"
+"Honghui Zhuang"
+_chemical_name_systematic
+;
+bis(Tetramethylammonium) nonadecaoxo-hexamolybdenum(vi) monohydrate
+;
+_cell_volume   2636.537
+_exptl_crystal_colour 'orange-red'
+_exptl_crystal_density_diffrn 2.635
+_exptl_crystal_description 'octahedron'
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.034
+_refine_ls_wR_factor_gt 0.034
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m 3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 y,x,-z
+5 y,-x,z
+6 -y,x,z
+7 x,z,-y
+8 -x,z,y
+9 x,-z,y
+10 z,y,-x
+11 z,-y,x
+12 -z,y,x
+13 x,1/2+y,1/2+z
+14 z,1/2+x,1/2+y
+15 y,1/2+z,1/2+x
+16 y,1/2+x,1/2-z
+17 y,1/2-x,1/2+z
+18 -y,1/2+x,1/2+z
+19 x,1/2+z,1/2-y
+20 -x,1/2+z,1/2+y
+21 x,1/2-z,1/2+y
+22 z,1/2+y,1/2-x
+23 z,1/2-y,1/2+x
+24 -z,1/2+y,1/2+x
+25 1/2+x,y,1/2+z
+26 1/2+z,x,1/2+y
+27 1/2+y,z,1/2+x
+28 1/2+y,x,1/2-z
+29 1/2+y,-x,1/2+z
+30 1/2-y,x,1/2+z
+31 1/2+x,z,1/2-y
+32 1/2-x,z,1/2+y
+33 1/2+x,-z,1/2+y
+34 1/2+z,y,1/2-x
+35 1/2+z,-y,1/2+x
+36 1/2-z,y,1/2+x
+37 1/2+x,1/2+y,z
+38 1/2+z,1/2+x,y
+39 1/2+y,1/2+z,x
+40 1/2+y,1/2+x,-z
+41 1/2+y,1/2-x,z
+42 1/2-y,1/2+x,z
+43 1/2+x,1/2+z,-y
+44 1/2-x,1/2+z,y
+45 1/2+x,1/2-z,y
+46 1/2+z,1/2+y,-x
+47 1/2+z,1/2-y,x
+48 1/2-z,1/2+y,x
+49 -x,-y,z
+50 -x,y,-z
+51 x,-y,-z
+52 z,-x,-y
+53 -z,-x,y
+54 -z,x,-y
+55 -y,z,-x
+56 y,-z,-x
+57 -y,-z,x
+58 -y,-x,-z
+59 -x,-z,-y
+60 -z,-y,-x
+61 -x,1/2-y,1/2+z
+62 -x,1/2+y,1/2-z
+63 x,1/2-y,1/2-z
+64 z,1/2-x,1/2-y
+65 -z,1/2-x,1/2+y
+66 -z,1/2+x,1/2-y
+67 -y,1/2+z,1/2-x
+68 y,1/2-z,1/2-x
+69 -y,1/2-z,1/2+x
+70 -y,1/2-x,1/2-z
+71 -x,1/2-z,1/2-y
+72 -z,1/2-y,1/2-x
+73 1/2-x,-y,1/2+z
+74 1/2-x,y,1/2-z
+75 1/2+x,-y,1/2-z
+76 1/2+z,-x,1/2-y
+77 1/2-z,-x,1/2+y
+78 1/2-z,x,1/2-y
+79 1/2-y,z,1/2-x
+80 1/2+y,-z,1/2-x
+81 1/2-y,-z,1/2+x
+82 1/2-y,-x,1/2-z
+83 1/2-x,-z,1/2-y
+84 1/2-z,-y,1/2-x
+85 1/2-x,1/2-y,z
+86 1/2-x,1/2+y,-z
+87 1/2+x,1/2-y,-z
+88 1/2+z,1/2-x,-y
+89 1/2-z,1/2-x,y
+90 1/2-z,1/2+x,-y
+91 1/2-y,1/2+z,-x
+92 1/2+y,1/2-z,-x
+93 1/2-y,1/2-z,x
+94 1/2-y,1/2-x,-z
+95 1/2-x,1/2-z,-y
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 -z,-x,-y
+99 -y,-z,-x
+100 -y,-x,z
+101 -y,x,-z
+102 y,-x,-z
+103 -x,-z,y
+104 x,-z,-y
+105 -x,z,-y
+106 -z,-y,x
+107 -z,y,-x
+108 z,-y,-x
+109 -x,-1/2-y,-1/2-z
+110 -z,-1/2-x,-1/2-y
+111 -y,-1/2-z,-1/2-x
+112 -y,-1/2-x,-1/2+z
+113 -y,-1/2+x,-1/2-z
+114 y,-1/2-x,-1/2-z
+115 -x,-1/2-z,-1/2+y
+116 x,-1/2-z,-1/2-y
+117 -x,-1/2+z,-1/2-y
+118 -z,-1/2-y,-1/2+x
+119 -z,-1/2+y,-1/2-x
+120 z,-1/2-y,-1/2-x
+121 -1/2-x,-y,-1/2-z
+122 -1/2-z,-x,-1/2-y
+123 -1/2-y,-z,-1/2-x
+124 -1/2-y,-x,-1/2+z
+125 -1/2-y,x,-1/2-z
+126 -1/2+y,-x,-1/2-z
+127 -1/2-x,-z,-1/2+y
+128 -1/2+x,-z,-1/2-y
+129 -1/2-x,z,-1/2-y
+130 -1/2-z,-y,-1/2+x
+131 -1/2-z,y,-1/2-x
+132 -1/2+z,-y,-1/2-x
+133 -1/2-x,-1/2-y,-z
+134 -1/2-z,-1/2-x,-y
+135 -1/2-y,-1/2-z,-x
+136 -1/2-y,-1/2-x,z
+137 -1/2-y,-1/2+x,-z
+138 -1/2+y,-1/2-x,-z
+139 -1/2-x,-1/2-z,y
+140 -1/2+x,-1/2-z,-y
+141 -1/2-x,-1/2+z,-y
+142 -1/2-z,-1/2-y,x
+143 -1/2-z,-1/2+y,-x
+144 -1/2+z,-1/2-y,-x
+145 x,y,-z
+146 x,-y,z
+147 -x,y,z
+148 -z,x,y
+149 z,x,-y
+150 z,-x,y
+151 y,-z,x
+152 -y,z,x
+153 y,z,-x
+154 y,x,z
+155 x,z,y
+156 z,y,x
+157 x,-1/2+y,-1/2-z
+158 x,-1/2-y,-1/2+z
+159 -x,-1/2+y,-1/2+z
+160 -z,-1/2+x,-1/2+y
+161 z,-1/2+x,-1/2-y
+162 z,-1/2-x,-1/2+y
+163 y,-1/2-z,-1/2+x
+164 -y,-1/2+z,-1/2+x
+165 y,-1/2+z,-1/2-x
+166 y,-1/2+x,-1/2+z
+167 x,-1/2+z,-1/2+y
+168 z,-1/2+y,-1/2+x
+169 -1/2+x,y,-1/2-z
+170 -1/2+x,-y,-1/2+z
+171 -1/2-x,y,-1/2+z
+172 -1/2-z,x,-1/2+y
+173 -1/2+z,x,-1/2-y
+174 -1/2+z,-x,-1/2+y
+175 -1/2+y,-z,-1/2+x
+176 -1/2-y,z,-1/2+x
+177 -1/2+y,z,-1/2-x
+178 -1/2+y,x,-1/2+z
+179 -1/2+x,z,-1/2+y
+180 -1/2+z,y,-1/2+x
+181 -1/2+x,-1/2+y,-z
+182 -1/2+x,-1/2-y,z
+183 -1/2-x,-1/2+y,z
+184 -1/2-z,-1/2+x,y
+185 -1/2+z,-1/2+x,-y
+186 -1/2+z,-1/2-x,y
+187 -1/2+y,-1/2-z,x
+188 -1/2-y,-1/2+z,x
+189 -1/2+y,-1/2+z,-x
+190 -1/2+y,-1/2+x,z
+191 -1/2+x,-1/2+z,y
+192 -1/2+z,-1/2+y,x
+_cell_length_a 13.8148(16)
+_cell_length_b 13.8148(16)
+_cell_length_c 13.8148(16)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Mo 1.42
+N 0.68
+O 0.63
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo1 Mo 0.00000 0.66666(8) 0.50000
+O1 O 0.00000 0.50000 0.50000
+O2 O 0.00000 0.6351(3) 0.6351(3)
+O3 O 0.00000 0.7864(7) 0.50000
+N1 N 0.25000 0.75000 0.25000
+C1 C 0.1884(7) 0.8116(7) 0.3116(7)
+H1 H 0.1481(7) 0.766(2) 0.3519(7)
+O4 O 0.00000 1.00000 0.50000
+Mo1H Mo 0.00000 0.50000(8) 0.66666
+O2H O 0.00000 0.3649(3) 0.6351(3)
+Mo1XA Mo 0.00000 0.33334(8) 0.50000
+Mo1F Mo 0.00000 0.50000(8) 0.33334
+O2F O 0.00000 0.6351(3) 0.3649(3)
+O2NA O 0.13510 0.5000(3) 0.6351(3)
+Mo1NA Mo 0.16666 0.50000(8) 0.50000
+Mo1OA Mo -0.16666 0.50000(8) 0.50000
+O2OA O -0.13510 0.5000(3) 0.6351(3)
+O3H O 0.00000 0.5000(7) 0.78640
+O2KC O -0.13510 0.5000(3) 0.3649(3)
+O2XA O 0.00000 0.3649(3) 0.3649(3)
+O2AC O 0.13510 0.3649(3) 0.5000(3)
+O2IC O 0.13510 0.5000(3) 0.3649(3)
+O3F O 0.00000 0.5000(7) 0.21360
+O2Z O 0.13510 0.6351(3) 0.5000(3)
+O2IA O -0.13510 0.6351(3) 0.5000(3)
+O2BC O -0.13510 0.3649(3) 0.5000(3)
+O3XA O 0.00000 0.2136(7) 0.50000
+O3OA O -0.28640 0.5000(7) 0.50000
+O3NA O 0.28640 0.5000(7) 0.50000
+H1JF H 0.1481(7) 0.8519(20) 0.2660(7)
+H1UC H 0.2340(7) 0.8519(20) 0.3519(7)
+C1M C 0.3116(7) 0.6884(7) 0.3116(7)
+H1M H 0.3519(7) 0.6481(20) 0.2660(7)
+H1GG H 0.2660(7) 0.6481(20) 0.3519(7)
+H1OD H 0.3519(7) 0.734(2) 0.3519(7)
+C1LA C 0.3116(7) 0.8116(7) 0.1884(7)
+H1LA H 0.2660(7) 0.8519(20) 0.1481(7)
+H1YE H 0.3519(7) 0.766(2) 0.1481(7)
+H1JE H 0.3519(7) 0.8519(20) 0.2340(7)
+C1YC C 0.1884(7) 0.6884(7) 0.1884(7)
+H1YC H 0.1481(7) 0.6481(20) 0.2340(7)
+H1JB H 0.1481(7) 0.734(2) 0.1481(7)
+H1DB H 0.2340(7) 0.6481(20) 0.1481(7)
+#END
+
+data_CSD_CIF_GIGRIX
+_audit_creation_date 1989-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GIGRIX
+_database_code_depnum_ccdc_archive 'CCDC 1167685'
+_chemical_formula_sum 'H6 B6 K2'
+_chemical_formula_moiety
+;
+H6 B6 2-,2(K1 1+)
+;
+_journal_coden_Cambridge 233
+_journal_volume 32
+_journal_year 1987
+_journal_page_first 3112
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.Yu.Kuznetsov"
+"D.M.Vinitskii"
+"K.A.Solntsev"
+"N.T.Kuznetsov"
+"L.A.Butman"
+_chemical_name_systematic
+;
+Di-potassium hexaborate(6)
+;
+_cell_volume    690.573
+_exptl_crystal_density_diffrn 1.45
+_exptl_special_details
+;
+Isostructural with the cesium analogue
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.016
+_refine_ls_wR_factor_gt 0.016
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m 3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 z,x,y
+6 y,z,x
+7 1/2+z,x,1/2+y
+8 1/2+y,1/2+z,x
+9 1/2+z,1/2+x,y
+10 y,1/2+z,1/2+x
+11 z,1/2+x,1/2+y
+12 1/2+y,z,1/2+x
+13 -x,y,-z
+14 -x,1/2+y,1/2-z
+15 1/2-x,y,1/2-z
+16 1/2-x,1/2+y,-z
+17 -z,x,-y
+18 -y,z,-x
+19 1/2-z,x,1/2-y
+20 1/2-y,1/2+z,-x
+21 1/2-z,1/2+x,-y
+22 -y,1/2+z,1/2-x
+23 -z,1/2+x,1/2-y
+24 1/2-y,z,1/2-x
+25 y,x,-z
+26 1/2+y,x,1/2-z
+27 y,1/2+x,1/2-z
+28 1/2+y,1/2+x,-z
+29 x,z,-y
+30 z,y,-x
+31 x,1/2+z,1/2-y
+32 1/2+z,1/2+y,-x
+33 1/2+x,1/2+z,-y
+34 1/2+z,y,1/2-x
+35 1/2+x,z,1/2-y
+36 z,1/2+y,1/2-x
+37 y,-x,z
+38 1/2+y,-x,1/2+z
+39 y,1/2-x,1/2+z
+40 1/2+y,1/2-x,z
+41 x,-z,y
+42 z,-y,x
+43 x,1/2-z,1/2+y
+44 1/2+z,1/2-y,x
+45 1/2+x,1/2-z,y
+46 1/2+z,-y,1/2+x
+47 1/2+x,-z,1/2+y
+48 z,1/2-y,1/2+x
+49 -x,-y,z
+50 -x,1/2-y,1/2+z
+51 1/2-x,-y,1/2+z
+52 1/2-x,1/2-y,z
+53 -z,-x,y
+54 -y,-z,x
+55 1/2-z,-x,1/2+y
+56 1/2-y,1/2-z,x
+57 1/2-z,1/2-x,y
+58 -y,1/2-z,1/2+x
+59 -z,1/2-x,1/2+y
+60 1/2-y,-z,1/2+x
+61 x,-y,-z
+62 x,1/2-y,1/2-z
+63 1/2+x,-y,1/2-z
+64 1/2+x,1/2-y,-z
+65 z,-x,-y
+66 y,-z,-x
+67 1/2+z,-x,1/2-y
+68 1/2+y,1/2-z,-x
+69 1/2+z,1/2-x,-y
+70 y,1/2-z,1/2-x
+71 z,1/2-x,1/2-y
+72 1/2+y,-z,1/2-x
+73 -y,-x,-z
+74 1/2-y,-x,1/2-z
+75 -y,1/2-x,1/2-z
+76 1/2-y,1/2-x,-z
+77 -x,-z,-y
+78 -z,-y,-x
+79 -x,1/2-z,1/2-y
+80 1/2-z,1/2-y,-x
+81 1/2-x,1/2-z,-y
+82 1/2-z,-y,1/2-x
+83 1/2-x,-z,1/2-y
+84 -z,1/2-y,1/2-x
+85 -y,x,z
+86 1/2-y,x,1/2+z
+87 -y,1/2+x,1/2+z
+88 1/2-y,1/2+x,z
+89 -x,z,y
+90 -z,y,x
+91 -x,1/2+z,1/2+y
+92 1/2-z,1/2+y,x
+93 1/2-x,1/2+z,y
+94 1/2-z,y,1/2+x
+95 1/2-x,z,1/2+y
+96 -z,1/2+y,1/2+x
+97 -x,-y,-z
+98 -x,-1/2-y,-1/2-z
+99 -1/2-x,-y,-1/2-z
+100 -1/2-x,-1/2-y,-z
+101 -z,-x,-y
+102 -y,-z,-x
+103 -1/2-z,-x,-1/2-y
+104 -1/2-y,-1/2-z,-x
+105 -1/2-z,-1/2-x,-y
+106 -y,-1/2-z,-1/2-x
+107 -z,-1/2-x,-1/2-y
+108 -1/2-y,-z,-1/2-x
+109 x,-y,z
+110 x,-1/2-y,-1/2+z
+111 -1/2+x,-y,-1/2+z
+112 -1/2+x,-1/2-y,z
+113 z,-x,y
+114 y,-z,x
+115 -1/2+z,-x,-1/2+y
+116 -1/2+y,-1/2-z,x
+117 -1/2+z,-1/2-x,y
+118 y,-1/2-z,-1/2+x
+119 z,-1/2-x,-1/2+y
+120 -1/2+y,-z,-1/2+x
+121 -y,-x,z
+122 -1/2-y,-x,-1/2+z
+123 -y,-1/2-x,-1/2+z
+124 -1/2-y,-1/2-x,z
+125 -x,-z,y
+126 -z,-y,x
+127 -x,-1/2-z,-1/2+y
+128 -1/2-z,-1/2-y,x
+129 -1/2-x,-1/2-z,y
+130 -1/2-z,-y,-1/2+x
+131 -1/2-x,-z,-1/2+y
+132 -z,-1/2-y,-1/2+x
+133 -y,x,-z
+134 -1/2-y,x,-1/2-z
+135 -y,-1/2+x,-1/2-z
+136 -1/2-y,-1/2+x,-z
+137 -x,z,-y
+138 -z,y,-x
+139 -x,-1/2+z,-1/2-y
+140 -1/2-z,-1/2+y,-x
+141 -1/2-x,-1/2+z,-y
+142 -1/2-z,y,-1/2-x
+143 -1/2-x,z,-1/2-y
+144 -z,-1/2+y,-1/2-x
+145 x,y,-z
+146 x,-1/2+y,-1/2-z
+147 -1/2+x,y,-1/2-z
+148 -1/2+x,-1/2+y,-z
+149 z,x,-y
+150 y,z,-x
+151 -1/2+z,x,-1/2-y
+152 -1/2+y,-1/2+z,-x
+153 -1/2+z,-1/2+x,-y
+154 y,-1/2+z,-1/2-x
+155 z,-1/2+x,-1/2-y
+156 -1/2+y,z,-1/2-x
+157 -x,y,z
+158 -x,-1/2+y,-1/2+z
+159 -1/2-x,y,-1/2+z
+160 -1/2-x,-1/2+y,z
+161 -z,x,y
+162 -y,z,x
+163 -1/2-z,x,-1/2+y
+164 -1/2-y,-1/2+z,x
+165 -1/2-z,-1/2+x,y
+166 -y,-1/2+z,-1/2+x
+167 -z,-1/2+x,-1/2+y
+168 -1/2-y,z,-1/2+x
+169 y,x,z
+170 -1/2+y,x,-1/2+z
+171 y,-1/2+x,-1/2+z
+172 -1/2+y,-1/2+x,z
+173 x,z,y
+174 z,y,x
+175 x,-1/2+z,-1/2+y
+176 -1/2+z,-1/2+y,x
+177 -1/2+x,-1/2+z,y
+178 -1/2+z,y,-1/2+x
+179 -1/2+x,z,-1/2+y
+180 z,-1/2+y,-1/2+x
+181 y,-x,-z
+182 -1/2+y,-x,-1/2-z
+183 y,-1/2-x,-1/2-z
+184 -1/2+y,-1/2-x,-z
+185 x,-z,-y
+186 z,-y,-x
+187 x,-1/2-z,-1/2-y
+188 -1/2+z,-1/2-y,-x
+189 -1/2+x,-1/2-z,-y
+190 -1/2+z,-y,-1/2-x
+191 -1/2+x,-z,-1/2-y
+192 z,-1/2-y,-1/2-x
+_cell_length_a 8.839(2)
+_cell_length_b 8.839(2)
+_cell_length_c 8.839(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+B 0.83
+K 1.33
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1 K 0.25000 0.25000 0.25000
+B1 B 0.1378(2) 0.00000 0.00000
+H1 H 0.2572(26) 0.00000 0.00000
+B1D B 0.0000(2) 0.13780 0.00000
+B1E B 0.0000(2) 0.00000 0.13780
+B1SE B 0.0000(2) 0.00000 -0.13780
+B1ZE B -0.1378(2) 0.00000 0.00000
+B1HD B 0.0000(2) -0.13780 0.00000
+H1ZE H -0.2572(26) 0.00000 0.00000
+H1SE H 0.0000(26) 0.00000 -0.25720
+H1HD H 0.0000(26) -0.25720 0.00000
+H1E H 0.0000(26) 0.00000 0.25720
+H1D H 0.0000(26) 0.25720 0.00000
+#END
+
+data_CSD_CIF_GIGROD
+_audit_creation_date 1989-06-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GIGROD
+_database_code_depnum_ccdc_archive 'CCDC 1167686'
+_chemical_formula_sum 'H6 B6 Cs2'
+_chemical_formula_moiety
+;
+H6 B6 2-,2(Cs1 1+)
+;
+_journal_coden_Cambridge 233
+_journal_volume 32
+_journal_year 1987
+_journal_page_first 3112
+_journal_name_full 'Zh.Neorg.Khim.(Russ.)(Russ.J.Inorg.Chem.) '
+loop_
+_publ_author_name
+"I.Yu.Kuznetsov"
+"D.M.Vinitskii"
+"K.A.Solntsev"
+"N.T.Kuznetsov"
+"L.A.Butman"
+_chemical_name_systematic
+;
+Di-cesium hexaborate(6)
+;
+_cell_volume    874.820
+_exptl_crystal_density_diffrn 2.56
+_exptl_special_details
+;
+Isostructural with the potassium analogue
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.03
+_refine_ls_wR_factor_gt 0.03
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m 3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 z,x,y
+6 y,z,x
+7 1/2+z,x,1/2+y
+8 1/2+y,1/2+z,x
+9 1/2+z,1/2+x,y
+10 y,1/2+z,1/2+x
+11 z,1/2+x,1/2+y
+12 1/2+y,z,1/2+x
+13 -x,y,-z
+14 -x,1/2+y,1/2-z
+15 1/2-x,y,1/2-z
+16 1/2-x,1/2+y,-z
+17 -z,x,-y
+18 -y,z,-x
+19 1/2-z,x,1/2-y
+20 1/2-y,1/2+z,-x
+21 1/2-z,1/2+x,-y
+22 -y,1/2+z,1/2-x
+23 -z,1/2+x,1/2-y
+24 1/2-y,z,1/2-x
+25 y,x,-z
+26 1/2+y,x,1/2-z
+27 y,1/2+x,1/2-z
+28 1/2+y,1/2+x,-z
+29 x,z,-y
+30 z,y,-x
+31 x,1/2+z,1/2-y
+32 1/2+z,1/2+y,-x
+33 1/2+x,1/2+z,-y
+34 1/2+z,y,1/2-x
+35 1/2+x,z,1/2-y
+36 z,1/2+y,1/2-x
+37 y,-x,z
+38 1/2+y,-x,1/2+z
+39 y,1/2-x,1/2+z
+40 1/2+y,1/2-x,z
+41 x,-z,y
+42 z,-y,x
+43 x,1/2-z,1/2+y
+44 1/2+z,1/2-y,x
+45 1/2+x,1/2-z,y
+46 1/2+z,-y,1/2+x
+47 1/2+x,-z,1/2+y
+48 z,1/2-y,1/2+x
+49 -x,-y,z
+50 -x,1/2-y,1/2+z
+51 1/2-x,-y,1/2+z
+52 1/2-x,1/2-y,z
+53 -z,-x,y
+54 -y,-z,x
+55 1/2-z,-x,1/2+y
+56 1/2-y,1/2-z,x
+57 1/2-z,1/2-x,y
+58 -y,1/2-z,1/2+x
+59 -z,1/2-x,1/2+y
+60 1/2-y,-z,1/2+x
+61 x,-y,-z
+62 x,1/2-y,1/2-z
+63 1/2+x,-y,1/2-z
+64 1/2+x,1/2-y,-z
+65 z,-x,-y
+66 y,-z,-x
+67 1/2+z,-x,1/2-y
+68 1/2+y,1/2-z,-x
+69 1/2+z,1/2-x,-y
+70 y,1/2-z,1/2-x
+71 z,1/2-x,1/2-y
+72 1/2+y,-z,1/2-x
+73 -y,-x,-z
+74 1/2-y,-x,1/2-z
+75 -y,1/2-x,1/2-z
+76 1/2-y,1/2-x,-z
+77 -x,-z,-y
+78 -z,-y,-x
+79 -x,1/2-z,1/2-y
+80 1/2-z,1/2-y,-x
+81 1/2-x,1/2-z,-y
+82 1/2-z,-y,1/2-x
+83 1/2-x,-z,1/2-y
+84 -z,1/2-y,1/2-x
+85 -y,x,z
+86 1/2-y,x,1/2+z
+87 -y,1/2+x,1/2+z
+88 1/2-y,1/2+x,z
+89 -x,z,y
+90 -z,y,x
+91 -x,1/2+z,1/2+y
+92 1/2-z,1/2+y,x
+93 1/2-x,1/2+z,y
+94 1/2-z,y,1/2+x
+95 1/2-x,z,1/2+y
+96 -z,1/2+y,1/2+x
+97 -x,-y,-z
+98 -x,-1/2-y,-1/2-z
+99 -1/2-x,-y,-1/2-z
+100 -1/2-x,-1/2-y,-z
+101 -z,-x,-y
+102 -y,-z,-x
+103 -1/2-z,-x,-1/2-y
+104 -1/2-y,-1/2-z,-x
+105 -1/2-z,-1/2-x,-y
+106 -y,-1/2-z,-1/2-x
+107 -z,-1/2-x,-1/2-y
+108 -1/2-y,-z,-1/2-x
+109 x,-y,z
+110 x,-1/2-y,-1/2+z
+111 -1/2+x,-y,-1/2+z
+112 -1/2+x,-1/2-y,z
+113 z,-x,y
+114 y,-z,x
+115 -1/2+z,-x,-1/2+y
+116 -1/2+y,-1/2-z,x
+117 -1/2+z,-1/2-x,y
+118 y,-1/2-z,-1/2+x
+119 z,-1/2-x,-1/2+y
+120 -1/2+y,-z,-1/2+x
+121 -y,-x,z
+122 -1/2-y,-x,-1/2+z
+123 -y,-1/2-x,-1/2+z
+124 -1/2-y,-1/2-x,z
+125 -x,-z,y
+126 -z,-y,x
+127 -x,-1/2-z,-1/2+y
+128 -1/2-z,-1/2-y,x
+129 -1/2-x,-1/2-z,y
+130 -1/2-z,-y,-1/2+x
+131 -1/2-x,-z,-1/2+y
+132 -z,-1/2-y,-1/2+x
+133 -y,x,-z
+134 -1/2-y,x,-1/2-z
+135 -y,-1/2+x,-1/2-z
+136 -1/2-y,-1/2+x,-z
+137 -x,z,-y
+138 -z,y,-x
+139 -x,-1/2+z,-1/2-y
+140 -1/2-z,-1/2+y,-x
+141 -1/2-x,-1/2+z,-y
+142 -1/2-z,y,-1/2-x
+143 -1/2-x,z,-1/2-y
+144 -z,-1/2+y,-1/2-x
+145 x,y,-z
+146 x,-1/2+y,-1/2-z
+147 -1/2+x,y,-1/2-z
+148 -1/2+x,-1/2+y,-z
+149 z,x,-y
+150 y,z,-x
+151 -1/2+z,x,-1/2-y
+152 -1/2+y,-1/2+z,-x
+153 -1/2+z,-1/2+x,-y
+154 y,-1/2+z,-1/2-x
+155 z,-1/2+x,-1/2-y
+156 -1/2+y,z,-1/2-x
+157 -x,y,z
+158 -x,-1/2+y,-1/2+z
+159 -1/2-x,y,-1/2+z
+160 -1/2-x,-1/2+y,z
+161 -z,x,y
+162 -y,z,x
+163 -1/2-z,x,-1/2+y
+164 -1/2-y,-1/2+z,x
+165 -1/2-z,-1/2+x,y
+166 -y,-1/2+z,-1/2+x
+167 -z,-1/2+x,-1/2+y
+168 -1/2-y,z,-1/2+x
+169 y,x,z
+170 -1/2+y,x,-1/2+z
+171 y,-1/2+x,-1/2+z
+172 -1/2+y,-1/2+x,z
+173 x,z,y
+174 z,y,x
+175 x,-1/2+z,-1/2+y
+176 -1/2+z,-1/2+y,x
+177 -1/2+x,-1/2+z,y
+178 -1/2+z,y,-1/2+x
+179 -1/2+x,z,-1/2+y
+180 z,-1/2+y,-1/2+x
+181 y,-x,-z
+182 -1/2+y,-x,-1/2-z
+183 y,-1/2-x,-1/2-z
+184 -1/2+y,-1/2-x,-z
+185 x,-z,-y
+186 z,-y,-x
+187 x,-1/2-z,-1/2-y
+188 -1/2+z,-1/2-y,-x
+189 -1/2+x,-1/2-z,-y
+190 -1/2+z,-y,-1/2-x
+191 -1/2+x,-z,-1/2-y
+192 z,-1/2-y,-1/2-x
+_cell_length_a 9.564(5)
+_cell_length_b 9.564(5)
+_cell_length_c 9.564(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+B 0.83
+Cs 1.67
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cs1 Cs 0.25000 0.25000 0.25000
+B1 B 0.1274(7) 0.00000 0.00000
+H1 H 0.2435(61) 0.00000 0.00000
+B1D B 0.0000(7) 0.12740 0.00000
+B1E B 0.0000(7) 0.00000 0.12740
+B1SE B 0.0000(7) 0.00000 -0.12740
+B1ZE B -0.1274(7) 0.00000 0.00000
+B1HD B 0.0000(7) -0.12740 0.00000
+H1ZE H -0.2435(61) 0.00000 0.00000
+H1SE H 0.0000(61) 0.00000 -0.24350
+H1HD H 0.0000(61) -0.24350 0.00000
+H1E H 0.0000(61) 0.00000 0.24350
+H1D H 0.0000(61) 0.24350 0.00000
+#END
+
+data_CSD_CIF_GOLSIM01
+_audit_creation_date 2019-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOLSIM01
+_database_code_depnum_ccdc_archive 'CCDC 1879028; CCDC 433237'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Zr1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Zr1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-zirconium(iv)
+;
+_cell_volume   2192.946
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.37
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 389
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0331
+_refine_ls_wR_factor_gt 0.0331
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.992(2)
+_cell_length_b 12.992(2)
+_cell_length_c 12.992(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Zr 1.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr1 Zr 0.50000 0.00000 0.00000
+Cl1 Cl 0.50000 0.18866(15) 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.1855(5) 0.1855(5) 0.1855(5)
+H1 H 0.22812 0.14210 0.14210
+Cl1A Cl 0.50000 -0.18866(15) 0.00000
+Cl1P Cl 0.50000 0.00000(15) -0.18866
+Cl1Q Cl 0.50000 0.00000(15) 0.18866
+Cl1DB Cl 0.68866 0.00000(15) 0.00000
+Cl1EB Cl 0.31134 0.00000(15) 0.00000
+H1D H 0.14210 0.22812 0.14210
+H1H H 0.14210 0.14210 0.22812
+C1AA C 0.1855(5) 0.3145(5) 0.3145(5)
+H1AA H 0.22812 0.35790 0.35790
+H1CA H 0.14210 0.27188 0.35790
+H1HA H 0.14210 0.35790 0.27188
+C1XA C 0.3145(5) 0.1855(5) 0.3145(5)
+H1XA H 0.27188 0.14210 0.35790
+H1CB H 0.35790 0.22812 0.35790
+H1EB H 0.35790 0.14210 0.27188
+C1UB C 0.3145(5) 0.3145(5) 0.1855(5)
+H1UB H 0.27188 0.35790 0.14210
+H1ZB H 0.35790 0.27188 0.14210
+H1EC H 0.35790 0.35790 0.22812
+#END
+
+data_CSD_CIF_GOLSUY
+_audit_creation_date 2019-06-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD GOLSUY
+_database_code_depnum_ccdc_archive 'CCDC 1879027; CCDC 433234'
+_chemical_formula_sum 'C8 H24 Cl6 Hf1 N2'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Hf1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-hafnium(iv)
+;
+_cell_volume   2193.250
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.634
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 389
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0273
+_refine_ls_wR_factor_gt 0.0273
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.9926(10)
+_cell_length_b 12.9926(10)
+_cell_length_c 12.9926(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Hf 1.75
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hf1 Hf 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.00000 0.1880(2)
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3124(6) 0.1876(6) 0.1876(6)
+H1 H 0.35511 0.14489 0.22959
+Cl1B Cl 0.00000 0.00000 -0.1880(2)
+Cl1D Cl 0.18800 0.00000 0.0000(2)
+Cl1F Cl -0.18800 0.00000 0.0000(2)
+Cl1H Cl 0.00000 0.18800 0.0000(2)
+Cl1J Cl 0.00000 -0.18800 0.0000(2)
+C1D C 0.1876(6) 0.3124(6) 0.1876(6)
+H1D H 0.22959 0.35511 0.14489
+C1H C 0.1876(6) 0.1876(6) 0.3124(6)
+H1H H 0.14489 0.22959 0.35511
+C1AA C 0.3124(6) 0.3124(6) 0.3124(6)
+H1AA H 0.35511 0.35511 0.27041
+H1CA H 0.22959 0.14489 0.35511
+H1HA H 0.14489 0.27041 0.14489
+H1XA H 0.14489 0.14489 0.27041
+H1CB H 0.27041 0.35511 0.35511
+H1EB H 0.35511 0.22959 0.14489
+H1UB H 0.14489 0.35511 0.22959
+H1ZB H 0.27041 0.14489 0.14489
+H1EC H 0.35511 0.27041 0.35511
+#END
+
+data_CSD_CIF_KIBCOQ
+_audit_creation_date 2018-04-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KIBCOQ
+_database_code_depnum_ccdc_archive 'CCDC 1837662'
+_chemical_formula_sum 'H8 I6 N2 Te1'
+_chemical_formula_moiety
+;
+I6 Te1 2-,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Dianxing  Ju"
+_chemical_name_systematic
+;
+bis(ammonium) hexaiodo-tellurium
+;
+_cell_volume   1864.046
+_exptl_crystal_colour 'black'
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.048
+_refine_ls_wR_factor_gt 0.048
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.307(4)
+_cell_length_b 12.307(4)
+_cell_length_c 12.307(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+I 1.40
+N 0.68
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.00000 0.00000 0.00000
+I1 I 0.00000 0.23895(15) 0.00000
+N1 N 0.25000 0.25000 0.25000
+I1A I 0.00000 -0.23895(15) 0.00000
+I1D I 0.00000 0.00000(15) 0.23895
+I1E I 0.00000 0.00000(15) -0.23895
+I1H I 0.23895 0.00000(15) 0.00000
+I1I I -0.23895 0.00000(15) 0.00000
+#END
+
+data_CSD_CIF_MACSNA05
+_audit_creation_date 2019-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MACSNA05
+_database_code_depnum_ccdc_archive 'CCDC 1879021; CCDC 433240'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Sn1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Sn1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-tin(iv)
+;
+_cell_volume   2185.713
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.458
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 390
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0234
+_refine_ls_wR_factor_gt 0.0234
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.9777(9)
+_cell_length_b 12.9777(9)
+_cell_length_c 12.9777(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Sn 1.39
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1 Sn 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.18609(16) 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3137(4) 0.1863(4) 0.1863(4)
+H1 H 0.35637 0.22622 0.14363
+Cl1A Cl 0.00000 -0.18609(16) 0.00000
+Cl1D Cl 0.00000 0.00000(16) 0.18609
+Cl1E Cl 0.00000 0.00000(16) -0.18609
+Cl1H Cl 0.18609 0.00000(16) 0.00000
+Cl1I Cl -0.18609 0.00000(16) 0.00000
+C1D C 0.1863(4) 0.3137(4) 0.1863(4)
+H1D H 0.14363 0.35637 0.22622
+C1H C 0.1863(4) 0.1863(4) 0.3137(4)
+H1H H 0.22622 0.14363 0.35637
+C1AA C 0.3137(4) 0.3137(4) 0.3137(4)
+H1AA H 0.35637 0.27378 0.35637
+H1CA H 0.14363 0.14363 0.27378
+H1HA H 0.22622 0.35637 0.14363
+H1XA H 0.14363 0.22622 0.35637
+H1CB H 0.35637 0.35637 0.27378
+H1EB H 0.27378 0.14363 0.14363
+H1UB H 0.14363 0.27378 0.14363
+H1ZB H 0.35637 0.14363 0.22622
+H1EC H 0.27378 0.35637 0.35637
+#END
+
+data_CSD_CIF_MATEBR01
+_audit_creation_date 2018-04-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MATEBR01
+_database_code_depnum_ccdc_archive 'CCDC 1837661'
+_chemical_formula_sum 'C2 H12 Br6 N2 Te1'
+_chemical_formula_moiety
+;
+Br6 Te1 2-,2(C1 H6 N1 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Dianxing  Ju"
+_chemical_name_systematic
+;
+bis(methylammonium) hexabromo-tellurium
+;
+_cell_volume   1499.158
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 2.974
+_exptl_special_details
+;
+The C and H atoms are not located
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0367
+_refine_ls_wR_factor_gt 0.0367
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.445(8)
+_cell_length_b 11.445(8)
+_cell_length_c 11.445(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+Br 1.21
+N 0.68
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.50000 0.00000 0.00000
+Br1 Br 0.50000 -0.23697(12) 0.00000
+N1 N 0.25000 -0.25000 -0.191(14)
+Br1A Br 0.50000 0.23697(12) 0.00000
+Br1P Br 0.50000 0.00000(12) 0.23697
+Br1Q Br 0.50000 0.00000(12) -0.23697
+Br1DB Br 0.26303 0.00000(12) 0.00000
+Br1EB Br 0.73697 0.00000(12) 0.00000
+#END
+
+data_CSD_CIF_MATEHI01
+_audit_creation_date 2018-04-17
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MATEHI01
+_database_code_depnum_ccdc_archive 'CCDC 1837660'
+_chemical_formula_sum 'C2 H12 I6 N2 Te1'
+_chemical_formula_moiety
+;
+I6 Te1 2-,2(C1 H6 N1 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"Dianxing  Ju"
+_chemical_name_systematic
+;
+bis(methylammonium) hexaiodo-tellurium
+;
+_cell_volume   1728.000
+_exptl_crystal_colour 'black'
+_exptl_special_details
+;
+The C and H atoms are not located
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 296
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0249
+_refine_ls_wR_factor_gt 0.0249
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.000(4)
+_cell_length_b 12.000(4)
+_cell_length_c 12.000(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+I 1.40
+N 0.68
+Te 1.47
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1 Te 0.00000 0.00000 0.00000
+I1 I -0.24569(5) 0.00000 0.00000
+N1 N -0.25000 0.25000 -0.25000
+I1A I 0.24569(5) 0.00000 0.00000
+I1D I 0.00000(5) -0.24569 0.00000
+I1E I 0.00000(5) 0.24569 0.00000
+I1H I 0.00000(5) 0.00000 -0.24569
+I1I I 0.00000(5) 0.00000 0.24569
+#END
+
+data_CSD_CIF_MIPYOB
+_audit_creation_date 2013-10-23
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD MIPYOB
+_database_code_depnum_ccdc_archive 'CCDC 968117'
+_chemical_formula_sum 'Cs2 I6 Sn1'
+_chemical_formula_moiety
+;
+I6 Sn1 2-,2(Cs1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 52
+_journal_year 2013
+_journal_page_first 9019
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"C.C.Stoumpos"
+"C.D.Malliakas"
+"M.G.Kanatzidis"
+_chemical_name_systematic
+;
+Di-cesium hexakis(iodo)-tin
+;
+_cell_volume   1572.064
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 4.842
+_exptl_crystal_description 'truncated octahedron'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0317
+_refine_ls_wR_factor_gt 0.0317
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.6276(9)
+_cell_length_b 11.6276(9)
+_cell_length_c 11.6276(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+Cs 2.44
+I 1.40
+Sn 1.39
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+I1 I 0.24536(3) 0.00000 0.00000
+Sn1 Sn 0.00000 0.00000 0.00000
+Cs1 Cs 0.25000 0.25000 0.25000
+I1A I -0.24536(3) 0.00000 0.00000
+I1D I 0.00000(3) 0.24536 0.00000
+I1E I 0.00000(3) -0.24536 0.00000
+I1H I 0.00000(3) 0.00000 0.24536
+I1I I 0.00000(3) 0.00000 -0.24536
+#END
+
+data_CSD_CIF_OMOHIH
+_audit_creation_date 2004-03-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD OMOHIH
+_database_code_depnum_ccdc_archive 'CCDC 231041'
+_chemical_formula_sum 'C16 H48 Cl19 N4 Ta6'
+_chemical_formula_moiety
+;
+4(C4 H12 N1 1+),Cl18 Ta6 3-,Cl1 1-
+;
+_journal_coeditor_code "IUCr SQ1032"
+_journal_coden_Cambridge 591
+_journal_volume 60
+_journal_year 2004
+_journal_page_first m33
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"M.Vojnovic"
+"D.Jozic"
+"I.Basic"
+"S.Roncevic"
+"P.Planinic"
+_chemical_name_systematic
+;
+tetrakis(Tetramethylammonium) 
+dodecakis(\m~2~-chloro)-hexachloro-hexa-tantalum chloride
+;
+_cell_volume   6006.832
+_exptl_crystal_colour 'dark green'
+_exptl_crystal_density_diffrn 2.273
+_exptl_crystal_description 'octahedron'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0272
+_refine_ls_wR_factor_gt 0.0272
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 x,1/2+y,1/2+z
+5 z,1/2+x,1/2+y
+6 y,1/2+z,1/2+x
+7 1/2+x,y,1/2+z
+8 1/2+z,x,1/2+y
+9 1/2+y,z,1/2+x
+10 1/2+x,1/2+y,z
+11 1/2+z,1/2+x,y
+12 1/2+y,1/2+z,x
+13 -x,z,y
+14 -y,x,z
+15 -z,y,x
+16 x,-z,y
+17 y,-x,z
+18 z,-y,x
+19 x,z,-y
+20 y,x,-z
+21 z,y,-x
+22 -x,1/2+z,1/2+y
+23 -y,1/2+x,1/2+z
+24 -z,1/2+y,1/2+x
+25 x,1/2-z,1/2+y
+26 y,1/2-x,1/2+z
+27 z,1/2-y,1/2+x
+28 x,1/2+z,1/2-y
+29 y,1/2+x,1/2-z
+30 z,1/2+y,1/2-x
+31 1/2-x,z,1/2+y
+32 1/2-y,x,1/2+z
+33 1/2-z,y,1/2+x
+34 1/2+x,-z,1/2+y
+35 1/2+y,-x,1/2+z
+36 1/2+z,-y,1/2+x
+37 1/2+x,z,1/2-y
+38 1/2+y,x,1/2-z
+39 1/2+z,y,1/2-x
+40 1/2-x,1/2+z,y
+41 1/2-y,1/2+x,z
+42 1/2-z,1/2+y,x
+43 1/2+x,1/2-z,y
+44 1/2+y,1/2-x,z
+45 1/2+z,1/2-y,x
+46 1/2+x,1/2+z,-y
+47 1/2+y,1/2+x,-z
+48 1/2+z,1/2+y,-x
+49 -x,-z,-y
+50 -y,-x,-z
+51 -z,-y,-x
+52 -x,1/2-z,1/2-y
+53 -y,1/2-x,1/2-z
+54 -z,1/2-y,1/2-x
+55 1/2-x,-z,1/2-y
+56 1/2-y,-x,1/2-z
+57 1/2-z,-y,1/2-x
+58 1/2-x,1/2-z,-y
+59 1/2-y,1/2-x,-z
+60 1/2-z,1/2-y,-x
+61 x,-y,-z
+62 z,-x,-y
+63 y,-z,-x
+64 -x,y,-z
+65 -z,x,-y
+66 -y,z,-x
+67 -x,-y,z
+68 -z,-x,y
+69 -y,-z,x
+70 x,1/2-y,1/2-z
+71 z,1/2-x,1/2-y
+72 y,1/2-z,1/2-x
+73 -x,1/2+y,1/2-z
+74 -z,1/2+x,1/2-y
+75 -y,1/2+z,1/2-x
+76 -x,1/2-y,1/2+z
+77 -z,1/2-x,1/2+y
+78 -y,1/2-z,1/2+x
+79 1/2+x,-y,1/2-z
+80 1/2+z,-x,1/2-y
+81 1/2+y,-z,1/2-x
+82 1/2-x,y,1/2-z
+83 1/2-z,x,1/2-y
+84 1/2-y,z,1/2-x
+85 1/2-x,-y,1/2+z
+86 1/2-z,-x,1/2+y
+87 1/2-y,-z,1/2+x
+88 1/2+x,1/2-y,-z
+89 1/2+z,1/2-x,-y
+90 1/2+y,1/2-z,-x
+91 1/2-x,1/2+y,-z
+92 1/2-z,1/2+x,-y
+93 1/2-y,1/2+z,-x
+94 1/2-x,1/2-y,z
+95 1/2-z,1/2-x,y
+96 1/2-y,1/2-z,x
+97 -x,-y,-z
+98 -z,-x,-y
+99 -y,-z,-x
+100 -x,-1/2-y,-1/2-z
+101 -z,-1/2-x,-1/2-y
+102 -y,-1/2-z,-1/2-x
+103 -1/2-x,-y,-1/2-z
+104 -1/2-z,-x,-1/2-y
+105 -1/2-y,-z,-1/2-x
+106 -1/2-x,-1/2-y,-z
+107 -1/2-z,-1/2-x,-y
+108 -1/2-y,-1/2-z,-x
+109 x,-z,-y
+110 y,-x,-z
+111 z,-y,-x
+112 -x,z,-y
+113 -y,x,-z
+114 -z,y,-x
+115 -x,-z,y
+116 -y,-x,z
+117 -z,-y,x
+118 x,-1/2-z,-1/2-y
+119 y,-1/2-x,-1/2-z
+120 z,-1/2-y,-1/2-x
+121 -x,-1/2+z,-1/2-y
+122 -y,-1/2+x,-1/2-z
+123 -z,-1/2+y,-1/2-x
+124 -x,-1/2-z,-1/2+y
+125 -y,-1/2-x,-1/2+z
+126 -z,-1/2-y,-1/2+x
+127 -1/2+x,-z,-1/2-y
+128 -1/2+y,-x,-1/2-z
+129 -1/2+z,-y,-1/2-x
+130 -1/2-x,z,-1/2-y
+131 -1/2-y,x,-1/2-z
+132 -1/2-z,y,-1/2-x
+133 -1/2-x,-z,-1/2+y
+134 -1/2-y,-x,-1/2+z
+135 -1/2-z,-y,-1/2+x
+136 -1/2+x,-1/2-z,-y
+137 -1/2+y,-1/2-x,-z
+138 -1/2+z,-1/2-y,-x
+139 -1/2-x,-1/2+z,-y
+140 -1/2-y,-1/2+x,-z
+141 -1/2-z,-1/2+y,-x
+142 -1/2-x,-1/2-z,y
+143 -1/2-y,-1/2-x,z
+144 -1/2-z,-1/2-y,x
+145 x,z,y
+146 y,x,z
+147 z,y,x
+148 x,-1/2+z,-1/2+y
+149 y,-1/2+x,-1/2+z
+150 z,-1/2+y,-1/2+x
+151 -1/2+x,z,-1/2+y
+152 -1/2+y,x,-1/2+z
+153 -1/2+z,y,-1/2+x
+154 -1/2+x,-1/2+z,y
+155 -1/2+y,-1/2+x,z
+156 -1/2+z,-1/2+y,x
+157 -x,y,z
+158 -z,x,y
+159 -y,z,x
+160 x,-y,z
+161 z,-x,y
+162 y,-z,x
+163 x,y,-z
+164 z,x,-y
+165 y,z,-x
+166 -x,-1/2+y,-1/2+z
+167 -z,-1/2+x,-1/2+y
+168 -y,-1/2+z,-1/2+x
+169 x,-1/2-y,-1/2+z
+170 z,-1/2-x,-1/2+y
+171 y,-1/2-z,-1/2+x
+172 x,-1/2+y,-1/2-z
+173 z,-1/2+x,-1/2-y
+174 y,-1/2+z,-1/2-x
+175 -1/2-x,y,-1/2+z
+176 -1/2-z,x,-1/2+y
+177 -1/2-y,z,-1/2+x
+178 -1/2+x,-y,-1/2+z
+179 -1/2+z,-x,-1/2+y
+180 -1/2+y,-z,-1/2+x
+181 -1/2+x,y,-1/2-z
+182 -1/2+z,x,-1/2-y
+183 -1/2+y,z,-1/2-x
+184 -1/2-x,-1/2+y,z
+185 -1/2-z,-1/2+x,y
+186 -1/2-y,-1/2+z,x
+187 -1/2+x,-1/2-y,z
+188 -1/2+z,-1/2-x,y
+189 -1/2+y,-1/2-z,x
+190 -1/2+x,-1/2+y,-z
+191 -1/2+z,-1/2+x,-y
+192 -1/2+y,-1/2+z,-x
+_cell_length_a 18.1781(4)
+_cell_length_b 18.1781(4)
+_cell_length_c 18.1781(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Ta 1.43
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ta1 Ta 0.61364(3) 0.00000 0.50000
+Cl1 Cl 0.63330(9) 0.00000 0.63330(9)
+Cl2 Cl 0.75337(17) 0.00000 0.50000
+Cl3 Cl 0.75000 0.25000 0.75000
+N1 N 0.6330(5) 0.1330(5) 0.8670(5)
+C1 C 0.6772(3) 0.1772(3) 0.9126(5)
+C2 C 0.5884(4) 0.0884(4) 0.9116(4)
+H1? H 0.66120 0.17180 0.96380
+H2? H 0.67250 0.22880 0.89770
+H3? H 0.72870 0.16180 0.90810
+H4? H 0.56950 0.04720 0.88250
+H5? H 0.54720 0.11750 0.93050
+H6? H 0.61750 0.06950 0.95280
+Ta1PE Ta 0.50000(3) 0.00000 0.61364
+Ta1XE Ta 0.50000(3) 0.11364 0.50000
+Ta1T Ta 0.50000(3) 0.00000 0.38636
+Ta1U Ta 0.38636(3) 0.00000 0.50000
+Ta1QA Ta 0.50000(3) -0.11364 0.50000
+Cl1XE Cl 0.50000(9) 0.13330 0.63330(9)
+Cl1QE Cl 0.63330(9) 0.13330 0.50000(9)
+Cl1FF Cl 0.63330(9) 0.00000 0.36670(9)
+Cl1U Cl 0.36670(9) 0.13330 0.50000(9)
+Cl1TA Cl 0.50000(9) 0.13330 0.36670(9)
+Cl1ID Cl 0.36670(9) 0.00000 0.36670(9)
+Cl1N Cl 0.36670(9) 0.00000 0.63330(9)
+Cl1QA Cl 0.50000(9) -0.13330 0.63330(9)
+Cl1X Cl 0.63330(9) -0.13330 0.50000(9)
+Cl1FE Cl 0.50000(9) -0.13330 0.36670(9)
+Cl2T Cl 0.50000(17) 0.00000 0.24663
+Cl1SD Cl 0.36670(9) -0.13330 0.50000(9)
+Cl2U Cl 0.24663(17) 0.00000 0.50000
+Cl2QA Cl 0.50000(17) -0.25337 0.50000
+Cl2PE Cl 0.50000(17) 0.00000 0.75337
+Cl2XE Cl 0.50000(17) 0.25337 0.50000
+C1DD C 0.6772(3) 0.0874(3) 0.8228(5)
+C1AE C 0.5874(3) 0.1772(3) 0.8228(5)
+#END
+
+data_CSD_CIF_PEFBUY
+_audit_creation_date 2006-05-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PEFBUY
+_database_code_depnum_ccdc_archive 'CCDC 295708'
+_chemical_formula_sum 'C8 H48 Cl20 Mo6 N24'
+_chemical_formula_moiety
+;
+Cl14 Mo6 2-,6(Cl1 1-),8(C1 H6 N3 1+)
+;
+_journal_coden_Cambridge 261
+_journal_volume 8
+_journal_year 2005
+_journal_page_first 1750
+_journal_name_full 'Comptes Rendus Chimie '
+loop_
+_publ_author_name
+"A.Flemstrom"
+"S.Vintila"
+"S.Lidin"
+_chemical_name_systematic
+;
+hexakis(guanidinium) tetrachloride 
+octakis(\m~3~-chloro)-hexachloro-hexa-molybdenum(ii)
+;
+_cell_volume   6209.212
+_exptl_crystal_density_diffrn 1.888
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0387
+_refine_ls_wR_factor_gt 0.0387
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -y,x,z
+3 x,-y,-z
+4 z,x,y
+5 -x,-y,z
+6 y,x,-z
+7 -x,z,y
+8 y,-x,z
+9 -x,y,-z
+10 -z,-x,y
+11 -y,-x,-z
+12 x,-z,y
+13 z,-x,-y
+14 -x,-z,-y
+15 -z,x,-y
+16 x,z,-y
+17 y,z,x
+18 z,-y,x
+19 -z,y,x
+20 z,y,-x
+21 y,-z,-x
+22 -z,-y,-x
+23 -y,z,-x
+24 -y,-z,x
+25 x,1/2+y,1/2+z
+26 -y,1/2+x,1/2+z
+27 x,1/2-y,1/2-z
+28 z,1/2+x,1/2+y
+29 -x,1/2-y,1/2+z
+30 y,1/2+x,1/2-z
+31 -x,1/2+z,1/2+y
+32 y,1/2-x,1/2+z
+33 -x,1/2+y,1/2-z
+34 -z,1/2-x,1/2+y
+35 -y,1/2-x,1/2-z
+36 x,1/2-z,1/2+y
+37 z,1/2-x,1/2-y
+38 -x,1/2-z,1/2-y
+39 -z,1/2+x,1/2-y
+40 x,1/2+z,1/2-y
+41 y,1/2+z,1/2+x
+42 z,1/2-y,1/2+x
+43 -z,1/2+y,1/2+x
+44 z,1/2+y,1/2-x
+45 y,1/2-z,1/2-x
+46 -z,1/2-y,1/2-x
+47 -y,1/2+z,1/2-x
+48 -y,1/2-z,1/2+x
+49 1/2+x,y,1/2+z
+50 1/2-y,x,1/2+z
+51 1/2+x,-y,1/2-z
+52 1/2+z,x,1/2+y
+53 1/2-x,-y,1/2+z
+54 1/2+y,x,1/2-z
+55 1/2-x,z,1/2+y
+56 1/2+y,-x,1/2+z
+57 1/2-x,y,1/2-z
+58 1/2-z,-x,1/2+y
+59 1/2-y,-x,1/2-z
+60 1/2+x,-z,1/2+y
+61 1/2+z,-x,1/2-y
+62 1/2-x,-z,1/2-y
+63 1/2-z,x,1/2-y
+64 1/2+x,z,1/2-y
+65 1/2+y,z,1/2+x
+66 1/2+z,-y,1/2+x
+67 1/2-z,y,1/2+x
+68 1/2+z,y,1/2-x
+69 1/2+y,-z,1/2-x
+70 1/2-z,-y,1/2-x
+71 1/2-y,z,1/2-x
+72 1/2-y,-z,1/2+x
+73 1/2+x,1/2+y,z
+74 1/2-y,1/2+x,z
+75 1/2+x,1/2-y,-z
+76 1/2+z,1/2+x,y
+77 1/2-x,1/2-y,z
+78 1/2+y,1/2+x,-z
+79 1/2-x,1/2+z,y
+80 1/2+y,1/2-x,z
+81 1/2-x,1/2+y,-z
+82 1/2-z,1/2-x,y
+83 1/2-y,1/2-x,-z
+84 1/2+x,1/2-z,y
+85 1/2+z,1/2-x,-y
+86 1/2-x,1/2-z,-y
+87 1/2-z,1/2+x,-y
+88 1/2+x,1/2+z,-y
+89 1/2+y,1/2+z,x
+90 1/2+z,1/2-y,x
+91 1/2-z,1/2+y,x
+92 1/2+z,1/2+y,-x
+93 1/2+y,1/2-z,-x
+94 1/2-z,1/2-y,-x
+95 1/2-y,1/2+z,-x
+96 1/2-y,1/2-z,x
+97 -x,-y,-z
+98 y,-x,-z
+99 -x,y,z
+100 -z,-x,-y
+101 x,y,-z
+102 -y,-x,z
+103 x,-z,-y
+104 -y,x,-z
+105 x,-y,z
+106 z,x,-y
+107 y,x,z
+108 -x,z,-y
+109 -z,x,y
+110 x,z,y
+111 z,-x,y
+112 -x,-z,y
+113 -y,-z,-x
+114 -z,y,-x
+115 z,-y,-x
+116 -z,-y,x
+117 -y,z,x
+118 z,y,x
+119 y,-z,x
+120 y,z,-x
+121 -x,-1/2-y,-1/2-z
+122 y,-1/2-x,-1/2-z
+123 -x,-1/2+y,-1/2+z
+124 -z,-1/2-x,-1/2-y
+125 x,-1/2+y,-1/2-z
+126 -y,-1/2-x,-1/2+z
+127 x,-1/2-z,-1/2-y
+128 -y,-1/2+x,-1/2-z
+129 x,-1/2-y,-1/2+z
+130 z,-1/2+x,-1/2-y
+131 y,-1/2+x,-1/2+z
+132 -x,-1/2+z,-1/2-y
+133 -z,-1/2+x,-1/2+y
+134 x,-1/2+z,-1/2+y
+135 z,-1/2-x,-1/2+y
+136 -x,-1/2-z,-1/2+y
+137 -y,-1/2-z,-1/2-x
+138 -z,-1/2+y,-1/2-x
+139 z,-1/2-y,-1/2-x
+140 -z,-1/2-y,-1/2+x
+141 -y,-1/2+z,-1/2+x
+142 z,-1/2+y,-1/2+x
+143 y,-1/2-z,-1/2+x
+144 y,-1/2+z,-1/2-x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+y,-x,-1/2-z
+147 -1/2-x,y,-1/2+z
+148 -1/2-z,-x,-1/2-y
+149 -1/2+x,y,-1/2-z
+150 -1/2-y,-x,-1/2+z
+151 -1/2+x,-z,-1/2-y
+152 -1/2-y,x,-1/2-z
+153 -1/2+x,-y,-1/2+z
+154 -1/2+z,x,-1/2-y
+155 -1/2+y,x,-1/2+z
+156 -1/2-x,z,-1/2-y
+157 -1/2-z,x,-1/2+y
+158 -1/2+x,z,-1/2+y
+159 -1/2+z,-x,-1/2+y
+160 -1/2-x,-z,-1/2+y
+161 -1/2-y,-z,-1/2-x
+162 -1/2-z,y,-1/2-x
+163 -1/2+z,-y,-1/2-x
+164 -1/2-z,-y,-1/2+x
+165 -1/2-y,z,-1/2+x
+166 -1/2+z,y,-1/2+x
+167 -1/2+y,-z,-1/2+x
+168 -1/2+y,z,-1/2-x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+y,-1/2-x,-z
+171 -1/2-x,-1/2+y,z
+172 -1/2-z,-1/2-x,-y
+173 -1/2+x,-1/2+y,-z
+174 -1/2-y,-1/2-x,z
+175 -1/2+x,-1/2-z,-y
+176 -1/2-y,-1/2+x,-z
+177 -1/2+x,-1/2-y,z
+178 -1/2+z,-1/2+x,-y
+179 -1/2+y,-1/2+x,z
+180 -1/2-x,-1/2+z,-y
+181 -1/2-z,-1/2+x,y
+182 -1/2+x,-1/2+z,y
+183 -1/2+z,-1/2-x,y
+184 -1/2-x,-1/2-z,y
+185 -1/2-y,-1/2-z,-x
+186 -1/2-z,-1/2+y,-x
+187 -1/2+z,-1/2-y,-x
+188 -1/2-z,-1/2-y,x
+189 -1/2-y,-1/2+z,x
+190 -1/2+z,-1/2+y,x
+191 -1/2+y,-1/2-z,x
+192 -1/2+y,-1/2+z,-x
+_cell_length_a 18.38
+_cell_length_b 18.38
+_cell_length_c 18.38
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+Mo 1.47
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mo1 Mo 0.50000 0.09994(6) 0.00000
+Cl1 Cl 0.4050(1) 0.09500 0.09500
+Cl2 Cl 0.50000 0.23120 0.00000
+Cl3 Cl 0.25000 0.25000 0.00000
+C1 C 0.1583(1) 0.15830 0.15830
+N1 N 0.130(2) 0.131(1) 0.218(1)
+H1 H 0.15027 0.09410 0.23838
+Mo1F Mo 0.50000 0.00000(6) 0.09994
+Mo1B Mo 0.50000 -0.09994(6) 0.00000
+Mo1M Mo 0.50000 0.00000(6) -0.09994
+Mo1LB Mo 0.59994 0.00000(6) 0.00000
+Mo1RB Mo 0.40006 0.00000(6) 0.00000
+Cl1B Cl 0.4050(1) -0.09500 -0.09500
+Cl1M Cl 0.5950(1) -0.09500 -0.09500
+Cl1H Cl 0.5950(1) 0.09500 -0.09500
+Cl1O Cl 0.4050(1) 0.09500 -0.09500
+Cl1K Cl 0.4050(1) -0.09500 0.09500
+Cl1F Cl 0.5950(1) 0.09500 0.09500
+Cl1D Cl 0.5950(1) -0.09500 0.09500
+Cl2F Cl 0.50000 0.00000 0.23120
+Cl2B Cl 0.50000 -0.23120 0.00000
+Cl2LB Cl 0.73120 0.00000 0.00000
+Cl2RB Cl 0.26880 0.00000 0.00000
+Cl2M Cl 0.50000 0.00000 -0.23120
+N1C N 0.218(2) 0.130(1) 0.131(1)
+N1P N 0.131(2) 0.218(1) 0.130(1)
+H1BD H 0.09410 0.15027 0.23838
+H1C H 0.23838 0.15027 0.09410
+H1MD H 0.23838 0.09410 0.15027
+H1P H 0.09410 0.23838 0.15027
+H1ED H 0.15027 0.23838 0.09410
+#END
+
+data_CSD_CIF_PESPIO01
+_audit_creation_date 2017-04-19
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PESPIO01
+_database_code_depnum_ccdc_archive 'CCDC 1425367'
+_chemical_formula_sum 'C8 H24 F6 N2 Zr1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),F6 Zr1 2-
+;
+_journal_coden_Cambridge 82
+_journal_volume 57
+_journal_year 2016
+_journal_page_first 1165
+_journal_name_full 'Zh.Strukt.Khim.(Russ.)(J.Struct.Chem.) '
+loop_
+_publ_author_name
+"A.V.Gerasimenko"
+"K.A.Gaivoronskaya"
+"R.L.Davidovich"
+"N.A.Didenko"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexafluoro-zirconium
+;
+_cell_volume   1588.916
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.478
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 398
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0186
+_refine_ls_wR_factor_gt 0.0186
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.6690(8)
+_cell_length_b 11.6690(8)
+_cell_length_c 11.6690(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+Zr 1.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr1 Zr 0.50000 0.00000 0.00000
+F1 F 0.3308(2) 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.17659(17) 0.17659(17) 0.17659(17)
+H1 H 0.1292(19) 0.2180(18) 0.1292(19)
+F1A F 0.6692(2) 0.00000 0.00000
+F1DB F 0.5000(2) 0.00000 -0.16920
+F1EB F 0.5000(2) 0.00000 0.16920
+F1XB F 0.5000(2) -0.16920 0.00000
+F1YB F 0.5000(2) 0.16920 0.00000
+H1D H 0.1292(19) 0.1292(18) 0.2180(19)
+H1H H 0.2180(19) 0.1292(18) 0.1292(19)
+C1AA C 0.17659(17) 0.32341(17) 0.32341(17)
+H1AA H 0.1292(19) 0.2820(18) 0.3708(19)
+H1CA H 0.1292(19) 0.3708(18) 0.2820(19)
+H1HA H 0.2180(19) 0.3708(18) 0.3708(19)
+C1XA C 0.32341(17) 0.17659(17) 0.32341(17)
+H1XA H 0.3708(19) 0.2180(18) 0.3708(19)
+H1CB H 0.3708(19) 0.1292(18) 0.2820(19)
+H1EB H 0.2820(19) 0.1292(18) 0.3708(19)
+C1UB C 0.32341(17) 0.32341(17) 0.17659(17)
+H1UB H 0.3708(19) 0.2820(18) 0.1292(19)
+H1ZB H 0.3708(19) 0.3708(18) 0.2180(19)
+H1EC H 0.2820(19) 0.3708(18) 0.1292(19)
+#END
+
+data_CSD_CIF_QALVAE
+_audit_creation_date 2020-12-15
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QALVAE
+_database_code_depnum_ccdc_archive 'CCDC 2034385'
+_chemical_formula_sum 'H14 B6 N2'
+_chemical_formula_moiety
+;
+H6 B6 2-,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 1475
+_journal_volume 12
+_journal_year 2021
+_journal_page_first 1675
+_journal_name_full 'Chemical Science '
+loop_
+_publ_author_name
+"F.Kleemiss"
+"O.V.Dolomanov"
+"M.Bodensteiner"
+"N.Peyerimhoff"
+"L.Midgley"
+"L.J.Bourhis"
+"A.Genoni"
+"L.A.Malaspina"
+"D.Jayatilaka"
+"J.L.Spencer"
+"F.White"
+"B.Grundkotter-Stock"
+"S.Steinhauer"
+"D.Lentz"
+"H.Puschmann"
+"S.Grabowsky"
+_chemical_name_systematic
+;
+diammonium closo-hexaborate(6)
+;
+_cell_volume    754.304
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 0.943
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0095
+_refine_ls_wR_factor_gt 0.0095
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,-z,y
+3 x,z,-y
+4 z,y,-x
+5 -z,y,x
+6 -y,x,z
+7 y,-x,z
+8 z,x,y
+9 y,z,x
+10 -y,-z,x
+11 z,-x,-y
+12 -y,z,-x
+13 -z,-x,y
+14 -z,x,-y
+15 y,-z,-x
+16 x,-y,-z
+17 -x,y,-z
+18 -x,-y,z
+19 y,x,-z
+20 -y,-x,-z
+21 z,-y,x
+22 -z,-y,-x
+23 -x,z,y
+24 -x,-z,-y
+25 x,1/2+y,1/2+z
+26 x,1/2-z,1/2+y
+27 x,1/2+z,1/2-y
+28 z,1/2+y,1/2-x
+29 -z,1/2+y,1/2+x
+30 -y,1/2+x,1/2+z
+31 y,1/2-x,1/2+z
+32 z,1/2+x,1/2+y
+33 y,1/2+z,1/2+x
+34 -y,1/2-z,1/2+x
+35 z,1/2-x,1/2-y
+36 -y,1/2+z,1/2-x
+37 -z,1/2-x,1/2+y
+38 -z,1/2+x,1/2-y
+39 y,1/2-z,1/2-x
+40 x,1/2-y,1/2-z
+41 -x,1/2+y,1/2-z
+42 -x,1/2-y,1/2+z
+43 y,1/2+x,1/2-z
+44 -y,1/2-x,1/2-z
+45 z,1/2-y,1/2+x
+46 -z,1/2-y,1/2-x
+47 -x,1/2+z,1/2+y
+48 -x,1/2-z,1/2-y
+49 1/2+x,y,1/2+z
+50 1/2+x,-z,1/2+y
+51 1/2+x,z,1/2-y
+52 1/2+z,y,1/2-x
+53 1/2-z,y,1/2+x
+54 1/2-y,x,1/2+z
+55 1/2+y,-x,1/2+z
+56 1/2+z,x,1/2+y
+57 1/2+y,z,1/2+x
+58 1/2-y,-z,1/2+x
+59 1/2+z,-x,1/2-y
+60 1/2-y,z,1/2-x
+61 1/2-z,-x,1/2+y
+62 1/2-z,x,1/2-y
+63 1/2+y,-z,1/2-x
+64 1/2+x,-y,1/2-z
+65 1/2-x,y,1/2-z
+66 1/2-x,-y,1/2+z
+67 1/2+y,x,1/2-z
+68 1/2-y,-x,1/2-z
+69 1/2+z,-y,1/2+x
+70 1/2-z,-y,1/2-x
+71 1/2-x,z,1/2+y
+72 1/2-x,-z,1/2-y
+73 1/2+x,1/2+y,z
+74 1/2+x,1/2-z,y
+75 1/2+x,1/2+z,-y
+76 1/2+z,1/2+y,-x
+77 1/2-z,1/2+y,x
+78 1/2-y,1/2+x,z
+79 1/2+y,1/2-x,z
+80 1/2+z,1/2+x,y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2-z,x
+83 1/2+z,1/2-x,-y
+84 1/2-y,1/2+z,-x
+85 1/2-z,1/2-x,y
+86 1/2-z,1/2+x,-y
+87 1/2+y,1/2-z,-x
+88 1/2+x,1/2-y,-z
+89 1/2-x,1/2+y,-z
+90 1/2-x,1/2-y,z
+91 1/2+y,1/2+x,-z
+92 1/2-y,1/2-x,-z
+93 1/2+z,1/2-y,x
+94 1/2-z,1/2-y,-x
+95 1/2-x,1/2+z,y
+96 1/2-x,1/2-z,-y
+97 -x,-y,-z
+98 -x,z,-y
+99 -x,-z,y
+100 -z,-y,x
+101 z,-y,-x
+102 y,-x,-z
+103 -y,x,-z
+104 -z,-x,-y
+105 -y,-z,-x
+106 y,z,-x
+107 -z,x,y
+108 y,-z,x
+109 z,x,-y
+110 z,-x,y
+111 -y,z,x
+112 -x,y,z
+113 x,-y,z
+114 x,y,-z
+115 -y,-x,z
+116 y,x,z
+117 -z,y,-x
+118 z,y,x
+119 x,-z,-y
+120 x,z,y
+121 -x,-1/2-y,-1/2-z
+122 -x,-1/2+z,-1/2-y
+123 -x,-1/2-z,-1/2+y
+124 -z,-1/2-y,-1/2+x
+125 z,-1/2-y,-1/2-x
+126 y,-1/2-x,-1/2-z
+127 -y,-1/2+x,-1/2-z
+128 -z,-1/2-x,-1/2-y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2+z,-1/2-x
+131 -z,-1/2+x,-1/2+y
+132 y,-1/2-z,-1/2+x
+133 z,-1/2+x,-1/2-y
+134 z,-1/2-x,-1/2+y
+135 -y,-1/2+z,-1/2+x
+136 -x,-1/2+y,-1/2+z
+137 x,-1/2-y,-1/2+z
+138 x,-1/2+y,-1/2-z
+139 -y,-1/2-x,-1/2+z
+140 y,-1/2+x,-1/2+z
+141 -z,-1/2+y,-1/2-x
+142 z,-1/2+y,-1/2+x
+143 x,-1/2-z,-1/2-y
+144 x,-1/2+z,-1/2+y
+145 -1/2-x,-y,-1/2-z
+146 -1/2-x,z,-1/2-y
+147 -1/2-x,-z,-1/2+y
+148 -1/2-z,-y,-1/2+x
+149 -1/2+z,-y,-1/2-x
+150 -1/2+y,-x,-1/2-z
+151 -1/2-y,x,-1/2-z
+152 -1/2-z,-x,-1/2-y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,z,-1/2-x
+155 -1/2-z,x,-1/2+y
+156 -1/2+y,-z,-1/2+x
+157 -1/2+z,x,-1/2-y
+158 -1/2+z,-x,-1/2+y
+159 -1/2-y,z,-1/2+x
+160 -1/2-x,y,-1/2+z
+161 -1/2+x,-y,-1/2+z
+162 -1/2+x,y,-1/2-z
+163 -1/2-y,-x,-1/2+z
+164 -1/2+y,x,-1/2+z
+165 -1/2-z,y,-1/2-x
+166 -1/2+z,y,-1/2+x
+167 -1/2+x,-z,-1/2-y
+168 -1/2+x,z,-1/2+y
+169 -1/2-x,-1/2-y,-z
+170 -1/2-x,-1/2+z,-y
+171 -1/2-x,-1/2-z,y
+172 -1/2-z,-1/2-y,x
+173 -1/2+z,-1/2-y,-x
+174 -1/2+y,-1/2-x,-z
+175 -1/2-y,-1/2+x,-z
+176 -1/2-z,-1/2-x,-y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2+z,-x
+179 -1/2-z,-1/2+x,y
+180 -1/2+y,-1/2-z,x
+181 -1/2+z,-1/2+x,-y
+182 -1/2+z,-1/2-x,y
+183 -1/2-y,-1/2+z,x
+184 -1/2-x,-1/2+y,z
+185 -1/2+x,-1/2-y,z
+186 -1/2+x,-1/2+y,-z
+187 -1/2-y,-1/2-x,z
+188 -1/2+y,-1/2+x,z
+189 -1/2-z,-1/2+y,-x
+190 -1/2+z,-1/2+y,x
+191 -1/2+x,-1/2-z,-y
+192 -1/2+x,-1/2+z,y
+_cell_length_a 9.10295(12)
+_cell_length_b 9.10295(12)
+_cell_length_c 9.10295(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+B 0.83
+N 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1 N 0.25000 0.25000 0.25000
+H1 H 0.3146(2) 0.1854(2) 0.1854(2)
+B1 B 0.365268(13) 0.50000 0.50000
+H2 H 0.2332(4) 0.50000 0.50000
+H1G H 0.1854(2) 0.3146(2) 0.1854(2)
+H1H H 0.1854(2) 0.1854(2) 0.3146(2)
+H1MA H 0.3146(2) 0.3146(2) 0.3146(2)
+B1C B 0.500000(13) 0.50000 0.63473
+H2C H 0.5000(4) 0.50000 0.76680
+B1D B 0.500000(13) 0.50000 0.36527
+H2D H 0.5000(4) 0.50000 0.23320
+B1E B 0.500000(13) 0.36527 0.50000
+H2E H 0.5000(4) 0.23320 0.50000
+B1F B 0.500000(13) 0.63473 0.50000
+H2F H 0.5000(4) 0.76680 0.50000
+B1P B 0.634732(13) 0.50000 0.50000
+H2P H 0.7668(4) 0.50000 0.50000
+#END
+
+data_CSD_CIF_QINBAT
+_audit_creation_date 2018-11-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD QINBAT
+_database_code_depnum_ccdc_archive 'CCDC 1546919'
+_chemical_formula_sum 'H8 Cl6 N2 Ru1'
+_chemical_formula_moiety
+;
+Cl6 Ru1 2-,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 9
+_journal_volume 57
+_journal_year 2018
+_journal_page_first 14443
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"Hongcheng Lu"
+"J.R.Chamorro"
+"Cheng Wan"
+"T.M.McQueen"
+_chemical_name_systematic
+;
+bis(ammonium) hexachloro-ruthenium
+;
+_cell_volume    930.517
+_exptl_crystal_colour 'black'
+_exptl_crystal_density_diffrn 2.497
+_exptl_special_details
+;
+, Magnetic properties
+
+;
+_exptl_crystal_description 'Block'
+_diffrn_ambient_temperature 110
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.008
+_refine_ls_wR_factor_gt 0.008
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 9.76281(10)
+_cell_length_b 9.76281(10)
+_cell_length_c 9.76281(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+Cl 0.99
+N 0.68
+Ru 1.46
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ru1 Ru 0.50000 0.50000 0.50000
+Cl1 Cl 0.50000 0.50000 0.73831(3)
+N1 N 0.75000 0.75000 0.75000
+H1 H 0.6994(6) 0.6994(6) 0.8006(6)
+Cl1B Cl 0.50000 0.50000 0.26169(3)
+Cl1D Cl 0.73831 0.50000 0.50000(3)
+Cl1F Cl 0.26169 0.50000 0.50000(3)
+Cl1H Cl 0.50000 0.73831 0.50000(3)
+Cl1J Cl 0.50000 0.26169 0.50000(3)
+H1D H 0.8006(6) 0.6994(6) 0.6994(6)
+H1H H 0.6994(6) 0.8006(6) 0.6994(6)
+H1CA H 0.8006(6) 0.8006(6) 0.8006(6)
+#END
+
+data_CSD_CIF_SAJHES07
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAJHES07
+_database_code_depnum_ccdc_archive 'CCDC 861532; CCDC 422744'
+_chemical_formula_sum 'C8 H24 F6 N2 Ti1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),F6 Ti1 2-
+;
+_journal_coden_Cambridge 643
+_journal_volume 226
+_journal_year 2011
+_journal_page_first 748
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"O.F.Gobel"
+"J.E.ten Elshof"
+"A.M.M.Schreurs"
+_chemical_name_systematic
+;
+bis(Tetramethylammonium) hexafluoro-titanium(iv)
+;
+_cell_volume   1516.713
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.358
+_exptl_special_details
+;
+cubic Fm-3m polymorph
+Phase transition from the rhombohedral R-3 phase at room temperature to a 
+high temperature cubic Fm-3m phase at 140-147 deg.C
+;
+_exptl_crystal_description 'isometric, cube and octahedron faces'
+_diffrn_ambient_temperature 413
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0322
+_refine_ls_wR_factor_gt 0.0322
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.4895(14)
+_cell_length_b 11.4895(14)
+_cell_length_c 11.4895(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+Ti 1.55
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti 0.00000 0.00000 0.00000
+F1 F 0.1592(3) 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.32484(19) 0.32484(19) 0.32484(19)
+H1 H 0.37320 0.37320 0.27660
+F1A F -0.1592(3) 0.00000 0.00000
+F1D F 0.0000(3) 0.15920 0.00000
+F1E F 0.0000(3) -0.15920 0.00000
+F1H F 0.0000(3) 0.00000 0.15920
+F1I F 0.0000(3) 0.00000 -0.15920
+C1AA C 0.32484(19) 0.17516(19) 0.17516(19)
+C1XA C 0.17516(19) 0.32484(19) 0.17516(19)
+C1UB C 0.17516(19) 0.17516(19) 0.32484(19)
+H1D H 0.27660 0.37320 0.37320
+H1H H 0.37320 0.27660 0.37320
+H1AA H 0.37320 0.12680 0.22340
+H1CA H 0.27660 0.12680 0.12680
+H1HA H 0.37320 0.22340 0.12680
+H1XA H 0.12680 0.37320 0.22340
+H1CB H 0.22340 0.37320 0.12680
+H1EB H 0.12680 0.27660 0.12680
+H1UB H 0.12680 0.12680 0.27660
+H1ZB H 0.22340 0.12680 0.37320
+H1EC H 0.12680 0.22340 0.37320
+#END
+
+data_CSD_CIF_SAJHES08
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAJHES08
+_database_code_depnum_ccdc_archive 'CCDC 861533; CCDC 422745'
+_chemical_formula_sum 'C8 H24 F6 N2 Ti1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),F6 Ti1 2-
+;
+_journal_coden_Cambridge 643
+_journal_volume 226
+_journal_year 2011
+_journal_page_first 748
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"O.F.Gobel"
+"J.E.ten Elshof"
+"A.M.M.Schreurs"
+_chemical_name_systematic
+;
+bis(Tetramethylammonium) hexafluoro-titanium(iv)
+;
+_cell_volume   1524.528
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.351
+_exptl_special_details
+;
+cubic Fm-3m polymorph
+Phase transition from the rhombohedral R-3 phase at room temperature to a 
+high temperature cubic Fm-3m phase at 140-147 deg.C
+;
+_exptl_crystal_description 'isometric, cube and octahedron faces'
+_diffrn_ambient_temperature 433
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0343
+_refine_ls_wR_factor_gt 0.0343
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.5092(14)
+_cell_length_b 11.5092(14)
+_cell_length_c 11.5092(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+Ti 1.54
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti 0.00000 0.00000 0.00000
+F1 F 0.1590(3) 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3247(2) 0.3247(2) 0.3247(2)
+H1 H 0.37290 0.37290 0.27660
+F1A F -0.1590(3) 0.00000 0.00000
+F1D F 0.0000(3) 0.15900 0.00000
+F1E F 0.0000(3) -0.15900 0.00000
+F1H F 0.0000(3) 0.00000 0.15900
+F1I F 0.0000(3) 0.00000 -0.15900
+C1AA C 0.3247(2) 0.1753(2) 0.1753(2)
+C1XA C 0.1753(2) 0.3247(2) 0.1753(2)
+C1UB C 0.1753(2) 0.1753(2) 0.3247(2)
+H1D H 0.27660 0.37290 0.37290
+H1H H 0.37290 0.27660 0.37290
+H1AA H 0.37290 0.12710 0.22340
+H1CA H 0.27660 0.12710 0.12710
+H1HA H 0.37290 0.22340 0.12710
+H1XA H 0.12710 0.37290 0.22340
+H1CB H 0.22340 0.37290 0.12710
+H1EB H 0.12710 0.27660 0.12710
+H1UB H 0.12710 0.12710 0.27660
+H1ZB H 0.22340 0.12710 0.37290
+H1EC H 0.12710 0.22340 0.37290
+#END
+
+data_CSD_CIF_SAJHES09
+_audit_creation_date 2012-02-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SAJHES09
+_database_code_depnum_ccdc_archive 'CCDC 861534; CCDC 422746'
+_chemical_formula_sum 'C8 H24 F6 N2 Ti1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),F6 Ti1 2-
+;
+_journal_coden_Cambridge 643
+_journal_volume 226
+_journal_year 2011
+_journal_page_first 748
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"O.F.Gobel"
+"J.E.ten Elshof"
+"A.M.M.Schreurs"
+_chemical_name_systematic
+;
+bis(Tetramethylammonium) hexafluoro-titanium(iv)
+;
+_cell_volume   1531.612
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.345
+_exptl_special_details
+;
+cubic Fm-3m polymorph
+Phase transition from the rhombohedral R-3 phase at room temperature to a 
+high temperature cubic Fm-3m phase at 140-147 deg.C
+;
+_exptl_crystal_description 'isometric, cube and octahedron faces'
+_diffrn_ambient_temperature 453
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0341
+_refine_ls_wR_factor_gt 0.0341
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 11.5270(5)
+_cell_length_b 11.5270(5)
+_cell_length_c 11.5270(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+F 0.64
+N 0.68
+Ti 1.55
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1 Ti 0.00000 0.00000 0.00000
+F1 F 0.1589(3) 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.32470(19) 0.32470(19) 0.32470(19)
+H1 H 0.37280 0.37280 0.27660
+F1A F -0.1589(3) 0.00000 0.00000
+F1D F 0.0000(3) 0.15890 0.00000
+F1E F 0.0000(3) -0.15890 0.00000
+F1H F 0.0000(3) 0.00000 0.15890
+F1I F 0.0000(3) 0.00000 -0.15890
+C1AA C 0.32470(19) 0.17530(19) 0.17530(19)
+C1XA C 0.17530(19) 0.32470(19) 0.17530(19)
+C1UB C 0.17530(19) 0.17530(19) 0.32470(19)
+H1D H 0.27660 0.37280 0.37280
+H1H H 0.37280 0.27660 0.37280
+H1AA H 0.37280 0.12720 0.22340
+H1CA H 0.27660 0.12720 0.12720
+H1HA H 0.37280 0.22340 0.12720
+H1XA H 0.12720 0.37280 0.22340
+H1CB H 0.22340 0.37280 0.12720
+H1EB H 0.12720 0.27660 0.12720
+H1UB H 0.12720 0.12720 0.27660
+H1ZB H 0.22340 0.12720 0.37280
+H1EC H 0.12720 0.22340 0.37280
+#END
+
+data_CSD_CIF_TMAMPC
+_audit_creation_date 1978-10-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMAMPC
+_database_code_depnum_ccdc_archive 'CCDC 1272314'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Pt1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Pt1 2-
+;
+_journal_coden_Cambridge 3
+_journal_volume 32
+_journal_year 1978
+_journal_page_first 241
+_journal_name_full 'Acta Chem.Scand. '
+loop_
+_publ_author_name
+"R.W.Berg"
+"I.Sotofte"
+_chemical_name_systematic
+;
+bis(Tetramethylammonium) hexachloro-platinum(iv)
+;
+_cell_volume   2058.076
+_exptl_crystal_density_diffrn 1.79
+_exptl_special_details
+;
+Fm3m polymorph
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.026
+_refine_ls_wR_factor_gt 0.026
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m 3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2+z
+3 1/2+x,y,1/2+z
+4 1/2+x,1/2+y,z
+5 z,x,y
+6 y,z,x
+7 1/2+z,x,1/2+y
+8 1/2+y,1/2+z,x
+9 1/2+z,1/2+x,y
+10 y,1/2+z,1/2+x
+11 z,1/2+x,1/2+y
+12 1/2+y,z,1/2+x
+13 -x,y,-z
+14 -x,1/2+y,1/2-z
+15 1/2-x,y,1/2-z
+16 1/2-x,1/2+y,-z
+17 -z,x,-y
+18 -y,z,-x
+19 1/2-z,x,1/2-y
+20 1/2-y,1/2+z,-x
+21 1/2-z,1/2+x,-y
+22 -y,1/2+z,1/2-x
+23 -z,1/2+x,1/2-y
+24 1/2-y,z,1/2-x
+25 y,x,-z
+26 1/2+y,x,1/2-z
+27 y,1/2+x,1/2-z
+28 1/2+y,1/2+x,-z
+29 x,z,-y
+30 z,y,-x
+31 x,1/2+z,1/2-y
+32 1/2+z,1/2+y,-x
+33 1/2+x,1/2+z,-y
+34 1/2+z,y,1/2-x
+35 1/2+x,z,1/2-y
+36 z,1/2+y,1/2-x
+37 y,-x,z
+38 1/2+y,-x,1/2+z
+39 y,1/2-x,1/2+z
+40 1/2+y,1/2-x,z
+41 x,-z,y
+42 z,-y,x
+43 x,1/2-z,1/2+y
+44 1/2+z,1/2-y,x
+45 1/2+x,1/2-z,y
+46 1/2+z,-y,1/2+x
+47 1/2+x,-z,1/2+y
+48 z,1/2-y,1/2+x
+49 -x,-y,z
+50 -x,1/2-y,1/2+z
+51 1/2-x,-y,1/2+z
+52 1/2-x,1/2-y,z
+53 -z,-x,y
+54 -y,-z,x
+55 1/2-z,-x,1/2+y
+56 1/2-y,1/2-z,x
+57 1/2-z,1/2-x,y
+58 -y,1/2-z,1/2+x
+59 -z,1/2-x,1/2+y
+60 1/2-y,-z,1/2+x
+61 x,-y,-z
+62 x,1/2-y,1/2-z
+63 1/2+x,-y,1/2-z
+64 1/2+x,1/2-y,-z
+65 z,-x,-y
+66 y,-z,-x
+67 1/2+z,-x,1/2-y
+68 1/2+y,1/2-z,-x
+69 1/2+z,1/2-x,-y
+70 y,1/2-z,1/2-x
+71 z,1/2-x,1/2-y
+72 1/2+y,-z,1/2-x
+73 -y,-x,-z
+74 1/2-y,-x,1/2-z
+75 -y,1/2-x,1/2-z
+76 1/2-y,1/2-x,-z
+77 -x,-z,-y
+78 -z,-y,-x
+79 -x,1/2-z,1/2-y
+80 1/2-z,1/2-y,-x
+81 1/2-x,1/2-z,-y
+82 1/2-z,-y,1/2-x
+83 1/2-x,-z,1/2-y
+84 -z,1/2-y,1/2-x
+85 -y,x,z
+86 1/2-y,x,1/2+z
+87 -y,1/2+x,1/2+z
+88 1/2-y,1/2+x,z
+89 -x,z,y
+90 -z,y,x
+91 -x,1/2+z,1/2+y
+92 1/2-z,1/2+y,x
+93 1/2-x,1/2+z,y
+94 1/2-z,y,1/2+x
+95 1/2-x,z,1/2+y
+96 -z,1/2+y,1/2+x
+97 -x,-y,-z
+98 -x,-1/2-y,-1/2-z
+99 -1/2-x,-y,-1/2-z
+100 -1/2-x,-1/2-y,-z
+101 -z,-x,-y
+102 -y,-z,-x
+103 -1/2-z,-x,-1/2-y
+104 -1/2-y,-1/2-z,-x
+105 -1/2-z,-1/2-x,-y
+106 -y,-1/2-z,-1/2-x
+107 -z,-1/2-x,-1/2-y
+108 -1/2-y,-z,-1/2-x
+109 x,-y,z
+110 x,-1/2-y,-1/2+z
+111 -1/2+x,-y,-1/2+z
+112 -1/2+x,-1/2-y,z
+113 z,-x,y
+114 y,-z,x
+115 -1/2+z,-x,-1/2+y
+116 -1/2+y,-1/2-z,x
+117 -1/2+z,-1/2-x,y
+118 y,-1/2-z,-1/2+x
+119 z,-1/2-x,-1/2+y
+120 -1/2+y,-z,-1/2+x
+121 -y,-x,z
+122 -1/2-y,-x,-1/2+z
+123 -y,-1/2-x,-1/2+z
+124 -1/2-y,-1/2-x,z
+125 -x,-z,y
+126 -z,-y,x
+127 -x,-1/2-z,-1/2+y
+128 -1/2-z,-1/2-y,x
+129 -1/2-x,-1/2-z,y
+130 -1/2-z,-y,-1/2+x
+131 -1/2-x,-z,-1/2+y
+132 -z,-1/2-y,-1/2+x
+133 -y,x,-z
+134 -1/2-y,x,-1/2-z
+135 -y,-1/2+x,-1/2-z
+136 -1/2-y,-1/2+x,-z
+137 -x,z,-y
+138 -z,y,-x
+139 -x,-1/2+z,-1/2-y
+140 -1/2-z,-1/2+y,-x
+141 -1/2-x,-1/2+z,-y
+142 -1/2-z,y,-1/2-x
+143 -1/2-x,z,-1/2-y
+144 -z,-1/2+y,-1/2-x
+145 x,y,-z
+146 x,-1/2+y,-1/2-z
+147 -1/2+x,y,-1/2-z
+148 -1/2+x,-1/2+y,-z
+149 z,x,-y
+150 y,z,-x
+151 -1/2+z,x,-1/2-y
+152 -1/2+y,-1/2+z,-x
+153 -1/2+z,-1/2+x,-y
+154 y,-1/2+z,-1/2-x
+155 z,-1/2+x,-1/2-y
+156 -1/2+y,z,-1/2-x
+157 -x,y,z
+158 -x,-1/2+y,-1/2+z
+159 -1/2-x,y,-1/2+z
+160 -1/2-x,-1/2+y,z
+161 -z,x,y
+162 -y,z,x
+163 -1/2-z,x,-1/2+y
+164 -1/2-y,-1/2+z,x
+165 -1/2-z,-1/2+x,y
+166 -y,-1/2+z,-1/2+x
+167 -z,-1/2+x,-1/2+y
+168 -1/2-y,z,-1/2+x
+169 y,x,z
+170 -1/2+y,x,-1/2+z
+171 y,-1/2+x,-1/2+z
+172 -1/2+y,-1/2+x,z
+173 x,z,y
+174 z,y,x
+175 x,-1/2+z,-1/2+y
+176 -1/2+z,-1/2+y,x
+177 -1/2+x,-1/2+z,y
+178 -1/2+z,y,-1/2+x
+179 -1/2+x,z,-1/2+y
+180 z,-1/2+y,-1/2+x
+181 y,-x,-z
+182 -1/2+y,-x,-1/2-z
+183 y,-1/2-x,-1/2-z
+184 -1/2+y,-1/2-x,-z
+185 x,-z,-y
+186 z,-y,-x
+187 x,-1/2-z,-1/2-y
+188 -1/2+z,-1/2-y,-x
+189 -1/2+x,-1/2-z,-y
+190 -1/2+z,-y,-1/2-x
+191 -1/2+x,-z,-1/2-y
+192 z,-1/2-y,-1/2-x
+_cell_length_a 12.720(4)
+_cell_length_b 12.720(4)
+_cell_length_c 12.720(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Cl 0.99
+N 0.68
+Pt 1.50
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pt1 Pt 0.00000 0.00000 0.00000
+Cl1 Cl 0.18030 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.31740 0.31740 0.31740
+Cl1D Cl 0.00000 0.18030 0.00000
+Cl1E Cl 0.00000 0.00000 0.18030
+Cl1SE Cl 0.00000 0.00000 -0.18030
+Cl1ZE Cl -0.18030 0.00000 0.00000
+Cl1JA Cl 0.00000 -0.18030 0.00000
+C1N C 0.18260 0.31740 0.18260
+C1ZF C 0.31740 0.18260 0.18260
+C1YA C 0.18260 0.18260 0.31740
+#END
+
+data_CSD_CIF_TMAMPC05
+_audit_creation_date 2019-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TMAMPC05
+_database_code_depnum_ccdc_archive 'CCDC 1879018; CCDC 433243'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Pt1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Pt1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-platinum(iv)
+;
+_cell_volume   2110.846
+_exptl_crystal_colour 'orange'
+_exptl_crystal_density_diffrn 1.75
+_exptl_special_details
+;
+Fm-3m polymorph
+
+;
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 389
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0244
+_refine_ls_wR_factor_gt 0.0244
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.8278(13)
+_cell_length_b 12.8278(13)
+_cell_length_c 12.8278(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Pt 1.36
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pt1 Pt 0.50000 0.00000 0.00000
+Cl1 Cl 0.50000 0.1796(2) 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3162(6) 0.3162(6) 0.1838(6)
+H1 H 0.27301 0.36005 0.13995
+Cl1A Cl 0.50000 -0.1796(2) 0.00000
+Cl1P Cl 0.50000 0.0000(2) -0.17960
+Cl1Q Cl 0.50000 0.0000(2) 0.17960
+Cl1DB Cl 0.67960 0.0000(2) 0.00000
+Cl1EB Cl 0.32040 0.0000(2) 0.00000
+C1D C 0.1838(6) 0.3162(6) 0.3162(6)
+H1D H 0.13995 0.27301 0.36005
+C1H C 0.3162(6) 0.1838(6) 0.3162(6)
+H1H H 0.36005 0.13995 0.27301
+H1AA H 0.27301 0.13995 0.36005
+C1CA C 0.1838(6) 0.1838(6) 0.1838(6)
+H1CA H 0.13995 0.22699 0.13995
+H1HA H 0.36005 0.36005 0.22699
+H1XA H 0.22699 0.36005 0.36005
+H1CB H 0.36005 0.27301 0.13995
+H1EB H 0.13995 0.13995 0.22699
+H1UB H 0.22699 0.13995 0.13995
+H1ZB H 0.36005 0.22699 0.36005
+H1EC H 0.13995 0.36005 0.27301
+#END
+
+data_CSD_CIF_TOFZUM
+_audit_creation_date 2019-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TOFZUM
+_database_code_depnum_ccdc_archive 'CCDC 1879017; CCDC 433246'
+_chemical_formula_sum 'C8 H24 Cl6 N2 U1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 U1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-uranium(iv)
+;
+_cell_volume   2262.123
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.759
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 360
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0373
+_refine_ls_wR_factor_gt 0.0373
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 13.1272(15)
+_cell_length_b 13.1272(15)
+_cell_length_c 13.1272(15)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+U 1.96
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+U1 U 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.1992(3) 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3110(8) 0.1890(8) 0.1890(8)
+H1 H 0.35317 0.23108 0.14683
+Cl1A Cl 0.00000 -0.1992(3) 0.00000
+Cl1D Cl 0.00000 0.0000(3) 0.19920
+Cl1E Cl 0.00000 0.0000(3) -0.19920
+Cl1H Cl 0.19920 0.0000(3) 0.00000
+Cl1I Cl -0.19920 0.0000(3) 0.00000
+C1D C 0.1890(8) 0.3110(8) 0.1890(8)
+H1D H 0.14683 0.35317 0.23108
+C1H C 0.1890(8) 0.1890(8) 0.3110(8)
+H1H H 0.23108 0.14683 0.35317
+C1AA C 0.3110(8) 0.3110(8) 0.3110(8)
+H1AA H 0.35317 0.26892 0.35317
+H1CA H 0.14683 0.14683 0.26892
+H1HA H 0.23108 0.35317 0.14683
+H1XA H 0.14683 0.23108 0.35317
+H1CB H 0.35317 0.35317 0.26892
+H1EB H 0.26892 0.14683 0.14683
+H1UB H 0.14683 0.26892 0.14683
+H1ZB H 0.35317 0.14683 0.23108
+H1EC H 0.26892 0.35317 0.35317
+#END
+
+data_CSD_CIF_TOGBEZ
+_audit_creation_date 2019-06-26
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD TOGBEZ
+_database_code_depnum_ccdc_archive 'CCDC 1879019; CCDC 433249'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Np1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Np1 2-
+;
+_journal_coden_Cambridge 1290
+_journal_year 2017
+_journal_page_first 4834
+_journal_name_full 'Eur.J.Inorg.Chem. '
+loop_
+_publ_author_name
+"M.Autillo"
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-neptunium(iv)
+;
+_cell_volume   2255.667
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 1.761
+_exptl_crystal_description 'prismatic'
+_diffrn_ambient_temperature 360
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0291
+_refine_ls_wR_factor_gt 0.0291
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 13.1147(10)
+_cell_length_b 13.1147(10)
+_cell_length_c 13.1147(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Np 1.90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Np1 Np 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.19785(19) 0.00000
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3110(6) 0.1890(6) 0.1890(6)
+H1 H 0.35331 0.23119 0.14669
+Cl1A Cl 0.00000 -0.19785(19) 0.00000
+Cl1D Cl 0.00000 0.00000(19) 0.19785
+Cl1E Cl 0.00000 0.00000(19) -0.19785
+Cl1H Cl 0.19785 0.00000(19) 0.00000
+Cl1I Cl -0.19785 0.00000(19) 0.00000
+C1D C 0.1890(6) 0.3110(6) 0.1890(6)
+H1D H 0.14669 0.35331 0.23119
+C1H C 0.1890(6) 0.1890(6) 0.3110(6)
+H1H H 0.23119 0.14669 0.35331
+C1AA C 0.3110(6) 0.3110(6) 0.3110(6)
+H1AA H 0.35331 0.26881 0.35331
+H1CA H 0.14669 0.14669 0.26881
+H1HA H 0.23119 0.35331 0.14669
+H1XA H 0.14669 0.23119 0.35331
+H1CB H 0.35331 0.35331 0.26881
+H1EB H 0.26881 0.14669 0.14669
+H1UB H 0.14669 0.26881 0.14669
+H1ZB H 0.35331 0.14669 0.23119
+H1EC H 0.26881 0.35331 0.35331
+#END
+
+data_CSD_CIF_XINNIU
+_audit_creation_date 2018-09-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD XINNIU
+_database_code_depnum_ccdc_archive 'CCDC 1866766'
+_chemical_formula_sum 'H8 F6 N2 Si1'
+_chemical_formula_moiety
+;
+F6 Si1 2-,2(H4 N1 1+)
+;
+_journal_coden_Cambridge 1078
+_journal_year 2018
+_journal_name_full 'CSD Communication(Private Communication) '
+loop_
+_publ_author_name
+"LEMOINE"
+"Pierric"
+"ROISNEL"
+"Thierry"
+"DUMAIT"
+"Noee"
+"CORDIER"
+"Stephane"
+_chemical_name_systematic
+;
+bisammonium hexafluorosilicate
+;
+_cell_volume    587.007
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 2.016
+_exptl_crystal_description 'prism'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0316
+_refine_ls_wR_factor_gt 0.0316
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 x,-y,-z
+4 -x,y,-z
+5 z,x,y
+6 y,z,x
+7 -z,-x,y
+8 -y,z,-x
+9 z,-x,-y
+10 -y,-z,x
+11 -z,x,-y
+12 y,-z,-x
+13 -y,-x,-z
+14 y,x,-z
+15 y,-x,z
+16 -y,x,z
+17 -x,-z,-y
+18 -z,-y,-x
+19 x,z,-y
+20 -z,y,x
+21 x,-z,y
+22 z,y,-x
+23 -x,z,y
+24 z,-y,x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 x,1/2-y,1/2-z
+28 -x,1/2+y,1/2-z
+29 z,1/2+x,1/2+y
+30 y,1/2+z,1/2+x
+31 -z,1/2-x,1/2+y
+32 -y,1/2+z,1/2-x
+33 z,1/2-x,1/2-y
+34 -y,1/2-z,1/2+x
+35 -z,1/2+x,1/2-y
+36 y,1/2-z,1/2-x
+37 -y,1/2-x,1/2-z
+38 y,1/2+x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 -x,1/2-z,1/2-y
+42 -z,1/2-y,1/2-x
+43 x,1/2+z,1/2-y
+44 -z,1/2+y,1/2+x
+45 x,1/2-z,1/2+y
+46 z,1/2+y,1/2-x
+47 -x,1/2+z,1/2+y
+48 z,1/2-y,1/2+x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2+x,-y,1/2-z
+52 1/2-x,y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+y,z,1/2+x
+55 1/2-z,-x,1/2+y
+56 1/2-y,z,1/2-x
+57 1/2+z,-x,1/2-y
+58 1/2-y,-z,1/2+x
+59 1/2-z,x,1/2-y
+60 1/2+y,-z,1/2-x
+61 1/2-y,-x,1/2-z
+62 1/2+y,x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2-x,-z,1/2-y
+66 1/2-z,-y,1/2-x
+67 1/2+x,z,1/2-y
+68 1/2-z,y,1/2+x
+69 1/2+x,-z,1/2+y
+70 1/2+z,y,1/2-x
+71 1/2-x,z,1/2+y
+72 1/2+z,-y,1/2+x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2+x,1/2-y,-z
+76 1/2-x,1/2+y,-z
+77 1/2+z,1/2+x,y
+78 1/2+y,1/2+z,x
+79 1/2-z,1/2-x,y
+80 1/2-y,1/2+z,-x
+81 1/2+z,1/2-x,-y
+82 1/2-y,1/2-z,x
+83 1/2-z,1/2+x,-y
+84 1/2+y,1/2-z,-x
+85 1/2-y,1/2-x,-z
+86 1/2+y,1/2+x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2-x,1/2-z,-y
+90 1/2-z,1/2-y,-x
+91 1/2+x,1/2+z,-y
+92 1/2-z,1/2+y,x
+93 1/2+x,1/2-z,y
+94 1/2+z,1/2+y,-x
+95 1/2-x,1/2+z,y
+96 1/2+z,1/2-y,x
+97 -x,-y,-z
+98 x,y,-z
+99 -x,y,z
+100 x,-y,z
+101 -z,-x,-y
+102 -y,-z,-x
+103 z,x,-y
+104 y,-z,x
+105 -z,x,y
+106 y,z,-x
+107 z,-x,y
+108 -y,z,x
+109 y,x,z
+110 -y,-x,z
+111 -y,x,-z
+112 y,-x,-z
+113 x,z,y
+114 z,y,x
+115 -x,-z,y
+116 z,-y,-x
+117 -x,z,-y
+118 -z,-y,x
+119 x,-z,-y
+120 -z,y,-x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 -x,-1/2+y,-1/2+z
+124 x,-1/2-y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -y,-1/2-z,-1/2-x
+127 z,-1/2+x,-1/2-y
+128 y,-1/2-z,-1/2+x
+129 -z,-1/2+x,-1/2+y
+130 y,-1/2+z,-1/2-x
+131 z,-1/2-x,-1/2+y
+132 -y,-1/2+z,-1/2+x
+133 y,-1/2+x,-1/2+z
+134 -y,-1/2-x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 x,-1/2+z,-1/2+y
+138 z,-1/2+y,-1/2+x
+139 -x,-1/2-z,-1/2+y
+140 z,-1/2-y,-1/2-x
+141 -x,-1/2+z,-1/2-y
+142 -z,-1/2-y,-1/2+x
+143 x,-1/2-z,-1/2-y
+144 -z,-1/2+y,-1/2-x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2-x,y,-1/2+z
+148 -1/2+x,-y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-y,-z,-1/2-x
+151 -1/2+z,x,-1/2-y
+152 -1/2+y,-z,-1/2+x
+153 -1/2-z,x,-1/2+y
+154 -1/2+y,z,-1/2-x
+155 -1/2+z,-x,-1/2+y
+156 -1/2-y,z,-1/2+x
+157 -1/2+y,x,-1/2+z
+158 -1/2-y,-x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2+x,z,-1/2+y
+162 -1/2+z,y,-1/2+x
+163 -1/2-x,-z,-1/2+y
+164 -1/2+z,-y,-1/2-x
+165 -1/2-x,z,-1/2-y
+166 -1/2-z,-y,-1/2+x
+167 -1/2+x,-z,-1/2-y
+168 -1/2-z,y,-1/2-x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2-x,-1/2+y,z
+172 -1/2+x,-1/2-y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-y,-1/2-z,-x
+175 -1/2+z,-1/2+x,-y
+176 -1/2+y,-1/2-z,x
+177 -1/2-z,-1/2+x,y
+178 -1/2+y,-1/2+z,-x
+179 -1/2+z,-1/2-x,y
+180 -1/2-y,-1/2+z,x
+181 -1/2+y,-1/2+x,z
+182 -1/2-y,-1/2-x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2+x,-1/2+z,y
+186 -1/2+z,-1/2+y,x
+187 -1/2-x,-1/2-z,y
+188 -1/2+z,-1/2-y,-x
+189 -1/2-x,-1/2+z,-y
+190 -1/2-z,-1/2-y,x
+191 -1/2+x,-1/2-z,-y
+192 -1/2-z,-1/2+y,-x
+_cell_length_a 8.373(3)
+_cell_length_b 8.373
+_cell_length_c 8.373
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+H 0.23
+F 0.64
+N 0.68
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1 Si 0.00000 0.00000 0.00000
+F1 F 0.2015(2) 0.00000 0.00000
+N1 N 0.25000 0.25000 0.25000
+H1 H 0.191(2) 0.191(2) 0.309(2)
+F1A F -0.2015(2) 0.00000 0.00000
+F1D F 0.0000(2) 0.20150 0.00000
+F1E F 0.0000(2) 0.00000 0.20150
+F1F F 0.0000(2) -0.20150 0.00000
+F1G F 0.0000(2) 0.00000 -0.20150
+H1D H 0.309(2) 0.191(2) 0.191(2)
+H1E H 0.191(2) 0.309(2) 0.191(2)
+H1FA H 0.309(2) 0.309(2) 0.309(2)
+#END
+
+data_CSD_CIF_ZZZWNI01
+_audit_creation_date 2015-11-11
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZZZWNI01
+_database_code_depnum_ccdc_archive 'CCDC 1436402'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Pu1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Pu1 2-
+;
+_journal_coden_Cambridge 9
+_journal_volume 54
+_journal_year 2015
+_journal_page_first 10208
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"R.E.Wilson"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-[^242^Pu]plutonium(iv)
+;
+_cell_volume   2241.867
+_exptl_crystal_colour 'yellow'
+_exptl_crystal_density_diffrn 1.787
+_exptl_special_details
+;
+cubic Fm-3m polymorph
+There is a rotative-displacement transition that occurs between 120 and 350 K 
+between Fd-3c and Fm-3m, and a first-order phase transition below 120 K.
+;
+_exptl_crystal_description 'cubic'
+_diffrn_ambient_temperature 360
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0305
+_refine_ls_wR_factor_gt 0.0305
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 13.0879(15)
+_cell_length_b 13.0879(15)
+_cell_length_c 13.0879(15)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Pu 1.87
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pu1 Pu 0.00000 0.00000 0.00000
+Cl1 Cl 0.00000 0.00000 0.1969(2)
+N1 N 0.25000 0.25000 0.25000
+C1 C 0.3125(7) 0.1875(7) 0.1875(7)
+H1 H 0.35480 0.22990 0.14520
+H2? H 0.35480 0.22990 0.14520
+H3? H 0.35480 0.22990 0.14520
+Cl1B Cl 0.00000 0.00000 -0.1969(2)
+Cl1D Cl 0.19690 0.00000 0.0000(2)
+Cl1F Cl -0.19690 0.00000 0.0000(2)
+Cl1H Cl 0.00000 0.19690 0.0000(2)
+Cl1J Cl 0.00000 -0.19690 0.0000(2)
+C1D C 0.1875(7) 0.3125(7) 0.1875(7)
+H1D H 0.14520 0.35480 0.22990
+C1H C 0.1875(7) 0.1875(7) 0.3125(7)
+H1H H 0.22990 0.14520 0.35480
+C1AA C 0.3125(7) 0.3125(7) 0.3125(7)
+H1AA H 0.35480 0.27010 0.35480
+H1CA H 0.14520 0.14520 0.27010
+H1HA H 0.22990 0.35480 0.14520
+H1XA H 0.14520 0.22990 0.35480
+H1CB H 0.35480 0.35480 0.27010
+H1EB H 0.27010 0.14520 0.14520
+H1UB H 0.14520 0.27010 0.14520
+H1ZB H 0.35480 0.14520 0.22990
+H1EC H 0.27010 0.35480 0.35480
+#END
+
+data_CSD_CIF_ZZZWNI04
+_audit_creation_date 2016-09-30
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD ZZZWNI04
+_database_code_depnum_ccdc_archive 'CCDC 1507624'
+_chemical_formula_sum 'C8 H24 Cl6 N2 Pu1'
+_chemical_formula_moiety
+;
+2(C4 H12 N1 1+),Cl6 Pu1 2-
+;
+_journal_coden_Cambridge 9
+_journal_volume 55
+_journal_year 2016
+_journal_page_first 8371
+_journal_name_full 'Inorg.Chem. '
+loop_
+_publ_author_name
+"A.M.Mounce"
+"HiroshiYasuoka"
+"G.Koutroulakis"
+"J.A.Lee"
+"HermanCho"
+"F.Gendron"
+"E.Zurek"
+"B.L.Scott"
+"J.Trujillo"
+"A.K.Slemmons"
+"J.N.Cross"
+"J.Thompson"
+"S.A.Kozimor"
+"E.D.Bauer"
+"JochenAutschbach"
+"D.L.Clark"
+_chemical_name_systematic
+;
+bis(tetramethylammonium) hexachloro-plutonium
+;
+_cell_volume   2128.767
+_exptl_crystal_colour 'colorless'
+_exptl_crystal_density_diffrn 1.881
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 140
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0434
+_refine_ls_wR_factor_gt 0.0434
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'F m -3 m'
+_symmetry_Int_Tables_number 225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,-y,z
+3 -x,y,-z
+4 x,-y,-z
+5 z,x,y
+6 z,-x,-y
+7 -z,-x,y
+8 -z,x,-y
+9 y,z,x
+10 -y,z,-x
+11 y,-z,-x
+12 -y,-z,x
+13 y,x,-z
+14 -y,-x,-z
+15 y,-x,z
+16 -y,x,z
+17 x,z,-y
+18 -x,z,y
+19 -x,-z,-y
+20 x,-z,y
+21 z,y,-x
+22 z,-y,x
+23 -z,y,x
+24 -z,-y,-x
+25 x,1/2+y,1/2+z
+26 -x,1/2-y,1/2+z
+27 -x,1/2+y,1/2-z
+28 x,1/2-y,1/2-z
+29 z,1/2+x,1/2+y
+30 z,1/2-x,1/2-y
+31 -z,1/2-x,1/2+y
+32 -z,1/2+x,1/2-y
+33 y,1/2+z,1/2+x
+34 -y,1/2+z,1/2-x
+35 y,1/2-z,1/2-x
+36 -y,1/2-z,1/2+x
+37 y,1/2+x,1/2-z
+38 -y,1/2-x,1/2-z
+39 y,1/2-x,1/2+z
+40 -y,1/2+x,1/2+z
+41 x,1/2+z,1/2-y
+42 -x,1/2+z,1/2+y
+43 -x,1/2-z,1/2-y
+44 x,1/2-z,1/2+y
+45 z,1/2+y,1/2-x
+46 z,1/2-y,1/2+x
+47 -z,1/2+y,1/2+x
+48 -z,1/2-y,1/2-x
+49 1/2+x,y,1/2+z
+50 1/2-x,-y,1/2+z
+51 1/2-x,y,1/2-z
+52 1/2+x,-y,1/2-z
+53 1/2+z,x,1/2+y
+54 1/2+z,-x,1/2-y
+55 1/2-z,-x,1/2+y
+56 1/2-z,x,1/2-y
+57 1/2+y,z,1/2+x
+58 1/2-y,z,1/2-x
+59 1/2+y,-z,1/2-x
+60 1/2-y,-z,1/2+x
+61 1/2+y,x,1/2-z
+62 1/2-y,-x,1/2-z
+63 1/2+y,-x,1/2+z
+64 1/2-y,x,1/2+z
+65 1/2+x,z,1/2-y
+66 1/2-x,z,1/2+y
+67 1/2-x,-z,1/2-y
+68 1/2+x,-z,1/2+y
+69 1/2+z,y,1/2-x
+70 1/2+z,-y,1/2+x
+71 1/2-z,y,1/2+x
+72 1/2-z,-y,1/2-x
+73 1/2+x,1/2+y,z
+74 1/2-x,1/2-y,z
+75 1/2-x,1/2+y,-z
+76 1/2+x,1/2-y,-z
+77 1/2+z,1/2+x,y
+78 1/2+z,1/2-x,-y
+79 1/2-z,1/2-x,y
+80 1/2-z,1/2+x,-y
+81 1/2+y,1/2+z,x
+82 1/2-y,1/2+z,-x
+83 1/2+y,1/2-z,-x
+84 1/2-y,1/2-z,x
+85 1/2+y,1/2+x,-z
+86 1/2-y,1/2-x,-z
+87 1/2+y,1/2-x,z
+88 1/2-y,1/2+x,z
+89 1/2+x,1/2+z,-y
+90 1/2-x,1/2+z,y
+91 1/2-x,1/2-z,-y
+92 1/2+x,1/2-z,y
+93 1/2+z,1/2+y,-x
+94 1/2+z,1/2-y,x
+95 1/2-z,1/2+y,x
+96 1/2-z,1/2-y,-x
+97 -x,-y,-z
+98 x,y,-z
+99 x,-y,z
+100 -x,y,z
+101 -z,-x,-y
+102 -z,x,y
+103 z,x,-y
+104 z,-x,y
+105 -y,-z,-x
+106 y,-z,x
+107 -y,z,x
+108 y,z,-x
+109 -y,-x,z
+110 y,x,z
+111 -y,x,-z
+112 y,-x,-z
+113 -x,-z,y
+114 x,-z,-y
+115 x,z,y
+116 -x,z,-y
+117 -z,-y,x
+118 -z,y,-x
+119 z,-y,-x
+120 z,y,x
+121 -x,-1/2-y,-1/2-z
+122 x,-1/2+y,-1/2-z
+123 x,-1/2-y,-1/2+z
+124 -x,-1/2+y,-1/2+z
+125 -z,-1/2-x,-1/2-y
+126 -z,-1/2+x,-1/2+y
+127 z,-1/2+x,-1/2-y
+128 z,-1/2-x,-1/2+y
+129 -y,-1/2-z,-1/2-x
+130 y,-1/2-z,-1/2+x
+131 -y,-1/2+z,-1/2+x
+132 y,-1/2+z,-1/2-x
+133 -y,-1/2-x,-1/2+z
+134 y,-1/2+x,-1/2+z
+135 -y,-1/2+x,-1/2-z
+136 y,-1/2-x,-1/2-z
+137 -x,-1/2-z,-1/2+y
+138 x,-1/2-z,-1/2-y
+139 x,-1/2+z,-1/2+y
+140 -x,-1/2+z,-1/2-y
+141 -z,-1/2-y,-1/2+x
+142 -z,-1/2+y,-1/2-x
+143 z,-1/2-y,-1/2-x
+144 z,-1/2+y,-1/2+x
+145 -1/2-x,-y,-1/2-z
+146 -1/2+x,y,-1/2-z
+147 -1/2+x,-y,-1/2+z
+148 -1/2-x,y,-1/2+z
+149 -1/2-z,-x,-1/2-y
+150 -1/2-z,x,-1/2+y
+151 -1/2+z,x,-1/2-y
+152 -1/2+z,-x,-1/2+y
+153 -1/2-y,-z,-1/2-x
+154 -1/2+y,-z,-1/2+x
+155 -1/2-y,z,-1/2+x
+156 -1/2+y,z,-1/2-x
+157 -1/2-y,-x,-1/2+z
+158 -1/2+y,x,-1/2+z
+159 -1/2-y,x,-1/2-z
+160 -1/2+y,-x,-1/2-z
+161 -1/2-x,-z,-1/2+y
+162 -1/2+x,-z,-1/2-y
+163 -1/2+x,z,-1/2+y
+164 -1/2-x,z,-1/2-y
+165 -1/2-z,-y,-1/2+x
+166 -1/2-z,y,-1/2-x
+167 -1/2+z,-y,-1/2-x
+168 -1/2+z,y,-1/2+x
+169 -1/2-x,-1/2-y,-z
+170 -1/2+x,-1/2+y,-z
+171 -1/2+x,-1/2-y,z
+172 -1/2-x,-1/2+y,z
+173 -1/2-z,-1/2-x,-y
+174 -1/2-z,-1/2+x,y
+175 -1/2+z,-1/2+x,-y
+176 -1/2+z,-1/2-x,y
+177 -1/2-y,-1/2-z,-x
+178 -1/2+y,-1/2-z,x
+179 -1/2-y,-1/2+z,x
+180 -1/2+y,-1/2+z,-x
+181 -1/2-y,-1/2-x,z
+182 -1/2+y,-1/2+x,z
+183 -1/2-y,-1/2+x,-z
+184 -1/2+y,-1/2-x,-z
+185 -1/2-x,-1/2-z,y
+186 -1/2+x,-1/2-z,-y
+187 -1/2+x,-1/2+z,y
+188 -1/2-x,-1/2+z,-y
+189 -1/2-z,-1/2-y,x
+190 -1/2-z,-1/2+y,-x
+191 -1/2+z,-1/2-y,-x
+192 -1/2+z,-1/2+y,x
+_cell_length_a 12.8640(19)
+_cell_length_b 12.8640(19)
+_cell_length_c 12.8640(19)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Cl 0.99
+N 0.68
+Pu 1.87
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pu1 Pu 1.00000 1.00000 0.00000
+Cl1 Cl 0.8005(4) 1.00000 0.00000
+N1 N 0.75000 0.75000 0.75000
+C1 C 0.6889(11) 0.8111(11) 0.8111(11)
+H1? H 0.72460 0.82610 0.87490
+Cl1A Cl 1.1995(4) 1.00000 0.00000
+Cl1D Cl 1.0000(4) 0.80050 0.00000
+Cl1E Cl 1.0000(4) 1.19950 0.00000
+Cl1H Cl 1.0000(4) 1.00000 -0.19950
+Cl1I Cl 1.0000(4) 1.00000 0.19950
+C1D C 0.8111(11) 0.6889(11) 0.8111(11)
+C1H C 0.8111(11) 0.8111(11) 0.6889(11)
+C1AA C 0.6889(11) 0.6889(11) 0.6889(11)
+#END

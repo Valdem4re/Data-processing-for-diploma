@@ -1,0 +1,1084 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge
+# Structural Database, then it will include bibliographic, chemical,
+# crystal, experimental, refinement or atomic coordinate data resulting
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_CSD_CIF_EWEFIY
+_audit_creation_date 2021-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EWEFIY
+_database_code_depnum_ccdc_archive 'CCDC 2043346'
+_chemical_formula_sum 'C36 H96 Ag6 Co4 N12 O24 S12'
+_chemical_formula_moiety
+;
+2(C12 H36 Ag3 Co2 N6 S6 3+),3(C4 H4 O6 2-),6(H2 O1)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 32
+_journal_year 2021
+_journal_page_first 8358
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"M.Uno"
+"T.Kojima"
+"N.Kuwamura"
+"N.Yoshinari"
+"T.Konno"
+_chemical_name_systematic
+;
+bis(hexakis(\m-2-aminoethane-1-thiolato)-di-cobalt-tri-silver) 
+tris(2,3-dihydroxybutanedioate) hexahydrate
+;
+_cell_volume   7161.602
+_exptl_crystal_colour 'dark purple'
+_exptl_crystal_density_diffrn 2.167
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 200
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0367
+_refine_ls_wR_factor_gt 0.0367
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/4+x,1/4-z,3/4+y
+3 3/4+x,1/4+z,1/4-y
+4 3/4+z,1/4+y,1/4-x
+5 1/2+y,1/2-z,-x
+6 -z,1/2+x,1/2-y
+7 1/4+z,1/4-y,3/4+x
+8 1/4+y,1/4-x,3/4+z
+9 1/2-z,-x,1/2+y
+10 1/2+x,1/2-y,-z
+11 1/4-y,3/4+x,1/4+z
+12 1/4-x,3/4+z,1/4+y
+13 -x,1/2+y,1/2-z
+14 1/2-y,-z,1/2+x
+15 1/2-x,-y,1/2+z
+16 3/4-y,3/4-x,3/4-z
+17 -y,1/2+z,1/2-x
+18 3/4-x,3/4-z,3/4-y
+19 3/4-z,3/4-y,3/4-x
+20 1/2+z,1/2-x,-y
+21 z,x,y
+22 3/4+y,1/4+x,1/4-z
+23 y,z,x
+24 1/4-z,3/4+y,1/4+x
+_cell_length_a 19.2754(4)
+_cell_length_b 19.2754(4)
+_cell_length_c 19.2754(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.45
+Co 1.26
+N 0.68
+O 0.68
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1 Ag 0.57566(3) 0.70671(3) 0.62504(3)
+Co1 Co 0.53693(4) 0.53693(4) 0.53693(4)
+Co2 Co 0.73563(5) 0.73563(5) 0.73563(5)
+S1 S 0.55730(9) 0.65108(9) 0.51519(9)
+N1 N 0.4381(3) 0.5565(3) 0.5129(3)
+H1 H 0.43032 0.54261 0.46848
+H2 H 0.41033 0.53066 0.54103
+C1 C 0.4180(4) 0.6307(4) 0.5196(4)
+H3 H 0.41585 0.64389 0.56917
+H4 H 0.37160 0.63819 0.49883
+C2 C 0.4711(4) 0.6742(4) 0.4827(4)
+H5 H 0.46189 0.72402 0.49117
+H6 H 0.46857 0.66574 0.43206
+S2 S 0.61781(9) 0.74012(10) 0.73707(10)
+N2 N 0.7339(4) 0.8385(3) 0.7373(4)
+H7 H 0.74075 0.85317 0.78169
+H8 H 0.76972 0.85481 0.71118
+C3 C 0.6684(5) 0.8686(4) 0.7111(5)
+H9 H 0.6650(5) 0.8616(6) 0.663(4)
+H10 H 0.6676(5) 0.916(3) 0.7196(7)
+C4 C 0.6090(4) 0.8348(4) 0.7467(5)
+H11 H 0.56476 0.85047 0.72585
+H12 H 0.60885 0.84740 0.79645
+C5 C 0.8264(5) 1.0568(5) 0.8368(5)
+C6 C 0.7651(9) 1.0026(6) 0.8427(6)
+H13 H 0.78101 0.95930 0.81894
+O1 O 0.8785(4) 1.0367(7) 0.8669(4)
+O2 O 0.8146(4) 1.1087(4) 0.8039(6)
+O3 O 0.7026(5) 1.0241(5) 0.8087(6)
+H14 H 0.71150 1.03553 0.76765
+O4 O 0.5853(6) 0.7924(6) 0.9547(8)
+Ag1T Ag 0.62504(3) 0.57566(3) 0.70671(3)
+S1T S 0.51519(9) 0.55730(9) 0.65108(9)
+N1T N 0.5129(3) 0.4381(3) 0.5565(3)
+H1T H 0.46848 0.43032 0.54261
+H2T H 0.54103 0.41033 0.53066
+C1T C 0.5196(4) 0.4180(4) 0.6307(4)
+H3T H 0.56917 0.41585 0.64389
+H4T H 0.49883 0.37160 0.63819
+C2T C 0.4827(4) 0.4711(4) 0.6742(4)
+H5T H 0.49117 0.46189 0.72402
+H6T H 0.43206 0.46857 0.66574
+S2T S 0.73707(9) 0.61781(10) 0.74012(10)
+N2T N 0.7373(4) 0.7339(3) 0.8385(4)
+H7T H 0.78169 0.74075 0.85317
+H8T H 0.71118 0.76972 0.85481
+C3T C 0.7111(5) 0.6684(4) 0.8686(5)
+H9T H 0.6630(5) 0.6650(6) 0.8616(40)
+H10T H 0.7196(5) 0.6676(30) 0.9160(7)
+C4T C 0.7467(4) 0.6090(4) 0.8348(5)
+H11T H 0.72585 0.56476 0.85047
+H12T H 0.79645 0.60885 0.84740
+Ag1V Ag 0.70671(3) 0.62504(3) 0.57566(3)
+S1V S 0.65108(9) 0.51519(9) 0.55730(9)
+N1V N 0.5565(3) 0.5129(3) 0.4381(3)
+H1V H 0.54261 0.46848 0.43032
+H2V H 0.53066 0.54103 0.41033
+C1V C 0.6307(4) 0.5196(4) 0.4180(4)
+H3V H 0.64389 0.56917 0.41585
+H4V H 0.63819 0.49883 0.37160
+C2V C 0.6742(4) 0.4827(4) 0.4711(4)
+H5V H 0.72402 0.49117 0.46189
+H6V H 0.66574 0.43206 0.46857
+S2V S 0.74012(9) 0.73707(10) 0.61781(10)
+N2V N 0.8385(4) 0.7373(3) 0.7339(4)
+H7V H 0.85317 0.78169 0.74075
+H8V H 0.85481 0.71118 0.76972
+C3V C 0.8686(5) 0.7111(4) 0.6684(5)
+H9V H 0.8616(5) 0.6630(6) 0.665(4)
+H10V H 0.9160(5) 0.7196(30) 0.6676(7)
+C4V C 0.8348(4) 0.7467(4) 0.6090(5)
+H11V H 0.85047 0.72585 0.56476
+H12V H 0.84740 0.79645 0.60885
+C5O C 0.6932(5) 0.9236(5) 0.9132(5)
+C6O C 0.7474(9) 0.9849(6) 0.9073(6)
+H13O H 0.79070 0.96899 0.93106
+O1O O 0.7133(4) 0.8715(7) 0.8831(4)
+O2O O 0.6413(4) 0.9354(4) 0.9461(6)
+O3O O 0.7259(5) 1.0474(5) 0.9413(6)
+H14O H 0.71447 1.03850 0.98235
+#END
+
+data_CSD_CIF_EWEPEE
+_audit_creation_date 2021-06-24
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD EWEPEE
+_database_code_depnum_ccdc_archive 'CCDC 2043343'
+_chemical_formula_sum 'C18 H48 Ag3 N6 O12 Rh2 S6'
+_chemical_formula_moiety
+;
+C12 H36 Ag3 N6 Rh2 S6 3+,1.5(C4 H4 O6 2-),3(H2 O1)
+;
+_journal_coden_Cambridge 1220
+_journal_volume 32
+_journal_year 2021
+_journal_page_first 8358
+_journal_name_full 'Chem.-Eur.J. '
+loop_
+_publ_author_name
+"M.Uno"
+"T.Kojima"
+"N.Kuwamura"
+"N.Yoshinari"
+"T.Konno"
+_chemical_name_systematic
+;
+hexakis(\m-2-aminoethane-1-thiolato)-di-rhodium(iii)-tri-silver(i) 
+sesquikis(2,3-dihydroxybutanedioate) trihydrate
+;
+_chemical_name_common
+;
+hexakis(mu-2-aminoethane-1-thiolato)-di-rhodium(iii)-tri-silver(i) 
+sesquikis((R,R)-tartarate) trihydrate
+;
+_cell_volume   7221.512
+_exptl_crystal_colour 'yellow'
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 100
+_diffrn_radiation_probe x-ray
+_diffrn_source synchrotron
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0267
+_refine_ls_wR_factor_gt 0.0267
+loop_
+_citation_database_id_CSD
+_citation_special_details
+EWEPAA "is a stereoisomer of this entry"
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 y,z,x
+3 z,x,y
+4 1/4-y,3/4+x,1/4+z
+5 1/4-z,3/4+y,1/4+x
+6 1/4-x,3/4+z,1/4+y
+7 1/2-x,-y,1/2+z
+8 -z,1/2+x,1/2-y
+9 -x,1/2+y,1/2-z
+10 1/2-y,-z,1/2+x
+11 1/2-z,-x,1/2+y
+12 1/4+y,1/4-x,3/4+z
+13 1/4+z,1/4-y,3/4+x
+14 1/4+x,1/4-z,3/4+y
+15 -y,1/2+z,1/2-x
+16 3/4-z,3/4-y,3/4-x
+17 3/4-x,3/4-z,3/4-y
+18 3/4-y,3/4-x,3/4-z
+19 1/2+y,1/2-z,-x
+20 3/4+y,1/4+x,1/4-z
+21 3/4+z,1/4+y,1/4-x
+22 3/4+x,1/4+z,1/4-y
+23 1/2+x,1/2-y,-z
+24 1/2+z,1/2-x,-y
+_cell_length_a 19.329(3)
+_cell_length_b 19.329(3)
+_cell_length_c 19.329(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Ag 1.45
+N 0.68
+O 0.68
+Rh 1.42
+S 1.02
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.55600(7) 0.65496(7) 0.51516(7)
+C1 C 0.4162(3) 0.6326(3) 0.5202(3)
+H1 H 0.41570 0.64506 0.56992
+H2 H 0.36964 0.64160 0.50094
+C2 C 0.4689(3) 0.6755(3) 0.4829(3)
+H3 H 0.45904 0.72518 0.49025
+H4 H 0.46642 0.66592 0.43265
+N1 N 0.4339(2) 0.5581(3) 0.5122(3)
+H5 H 0.42595 0.54515 0.46762
+H6 H 0.40583 0.53252 0.53992
+S2 S 0.61441(7) 0.74024(8) 0.73792(8)
+C3 C 0.6652(4) 0.8695(4) 0.7117(4)
+H7 H 0.66165 0.86080 0.66133
+H8 H 0.66236 0.92008 0.71931
+C4 C 0.6068(4) 0.8347(4) 0.7480(4)
+H9 H 0.56229 0.85065 0.72835
+H10 H 0.60768 0.84691 0.79771
+N2 N 0.7317(3) 0.8437(3) 0.7373(3)
+H11 H 0.73828 0.85865 0.78142
+H12 H 0.76643 0.86093 0.71068
+Ag1 Ag 0.57385(2) 0.70771(2) 0.62576(2)
+Rh1 Rh 0.53728(2) 0.53728(2) 0.53728(2)
+Rh2 Rh 0.73521(2) 0.73521(2) 0.73521(2)
+C5 C 0.8259(4) 1.0560(4) 0.8358(4)
+C6 C 0.7662(6) 1.0021(5) 0.8402(5)
+H13 H 0.78246 0.95899 0.81654
+O1 O 0.8791(3) 1.0365(5) 0.8666(4)
+O2 O 0.8145(4) 1.1087(3) 0.8029(5)
+O3 O 0.7044(4) 1.0234(4) 0.8071(5)
+H14 H 0.71357 1.03750 0.76706
+O4 O 0.5856(5) 0.7919(5) 0.9557(8)
+S1A S 0.65496(7) 0.51516(7) 0.55600(7)
+C1A C 0.6326(3) 0.5202(3) 0.4162(3)
+H1A H 0.64506 0.56992 0.41570
+H2A H 0.64160 0.50094 0.36964
+C2A C 0.6755(3) 0.4829(3) 0.4689(3)
+H3A H 0.72518 0.49025 0.45904
+H4A H 0.66592 0.43265 0.46642
+N1A N 0.5581(2) 0.5122(3) 0.4339(3)
+H5A H 0.54515 0.46762 0.42595
+H6A H 0.53252 0.53992 0.40583
+S2A S 0.74024(7) 0.73792(8) 0.61441(8)
+C3A C 0.8695(4) 0.7117(4) 0.6652(4)
+H7A H 0.86080 0.66133 0.66165
+H8A H 0.92008 0.71931 0.66236
+C4A C 0.8347(4) 0.7480(4) 0.6068(4)
+H9A H 0.85065 0.72835 0.56229
+H10A H 0.84691 0.79771 0.60768
+N2A N 0.8437(3) 0.7373(3) 0.7317(3)
+H11A H 0.85865 0.78142 0.73828
+H12A H 0.86093 0.71068 0.76643
+Ag1A Ag 0.70771(2) 0.62576(2) 0.57385(2)
+S1B S 0.51516(7) 0.55600(7) 0.65496(7)
+C1B C 0.5202(3) 0.4162(3) 0.6326(3)
+H1B H 0.56992 0.41570 0.64506
+H2B H 0.50094 0.36964 0.64160
+C2B C 0.4829(3) 0.4689(3) 0.6755(3)
+H3B H 0.49025 0.45904 0.72518
+H4B H 0.43265 0.46642 0.66592
+N1B N 0.5122(2) 0.4339(3) 0.5581(3)
+H5B H 0.46762 0.42595 0.54515
+H6B H 0.53992 0.40583 0.53252
+S2B S 0.73792(7) 0.61441(8) 0.74024(8)
+C3B C 0.7117(4) 0.6652(4) 0.8695(4)
+H7B H 0.66133 0.66165 0.86080
+H8B H 0.71931 0.66236 0.92008
+C4B C 0.7480(4) 0.6068(4) 0.8347(4)
+H9B H 0.72835 0.56229 0.85065
+H10B H 0.79771 0.60768 0.84691
+N2B N 0.7373(3) 0.7317(3) 0.8437(3)
+H11B H 0.78142 0.73828 0.85865
+H12B H 0.71068 0.76643 0.86093
+Ag1B Ag 0.62576(2) 0.57385(2) 0.70771(2)
+C5Q C 0.6940(4) 0.9241(4) 0.9142(4)
+C6Q C 0.7479(6) 0.9838(5) 0.9098(5)
+H13Q H 0.79101 0.96754 0.93346
+O1Q O 0.7135(3) 0.8709(5) 0.8834(4)
+O2Q O 0.6413(4) 0.9355(3) 0.9471(5)
+O3Q O 0.7266(4) 1.0456(4) 0.9429(5)
+H14Q H 0.71250 1.03643 0.98294
+#END
+
+data_CSD_CIF_KERGEV
+_audit_creation_date 2013-03-18
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD KERGEV
+_database_code_depnum_ccdc_archive 'CCDC 825674'
+_chemical_formula_sum 'C6 Fe1 K3 O12'
+_chemical_formula_moiety
+;
+3(K1 1+),C6 Fe1 O12 3-
+;
+_journal_coden_Cambridge 1305
+_journal_volume 407
+_journal_year 2012
+_journal_page_first 4208
+_journal_name_full 'Physica B: Condensed Matter(Amsterdam) '
+loop_
+_publ_author_name
+"A.Saritha"
+"B.Raju"
+"M.Ramachary"
+"P.Raghavaiah"
+"K.A.Hussain"
+_chemical_name_systematic
+;
+tri-potassium tris(oxalato)-iron(iii)
+;
+_cell_volume   2513.792
+_exptl_crystal_colour 'light green'
+_exptl_crystal_density_diffrn 2.31
+_exptl_special_details
+;
+The paper describes a number of bonds involving the K atoms which have not 
+been represented in the 2D diagram
+;
+_exptl_crystal_description 'block'
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0395
+_refine_ls_wR_factor_gt 0.0395
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 1/2+x,1/2-y,-z
+4 -x,1/2+y,1/2-z
+5 z,x,y
+6 y,z,x
+7 1/2-z,-x,1/2+y
+8 -y,1/2+z,1/2-x
+9 1/2+z,1/2-x,-y
+10 1/2-y,-z,1/2+x
+11 -z,1/2+x,1/2-y
+12 1/2+y,1/2-z,-x
+13 3/4-y,3/4-x,3/4-z
+14 3/4+y,1/4+x,1/4-z
+15 1/4+y,1/4-x,3/4+z
+16 1/4-y,3/4+x,1/4+z
+17 3/4-x,3/4-z,3/4-y
+18 3/4-z,3/4-y,3/4-x
+19 3/4+x,1/4+z,1/4-y
+20 1/4-z,3/4+y,1/4+x
+21 1/4+x,1/4-z,3/4+y
+22 3/4+z,1/4+y,1/4-x
+23 1/4-x,3/4+z,1/4+y
+24 1/4+z,1/4-y,3/4+x
+_cell_length_a 13.5970(2)
+_cell_length_b 13.5970(2)
+_cell_length_c 13.5970(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Fe 1.52
+K 1.03
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.7066(3) 0.5506(3) 0.0194(3)
+C2 C 0.6412(3) 0.6377(3) 0.0577(3)
+O1 O 0.7960(3) 0.5607(3) 0.0143(3)
+O2 O 0.6579(2) 0.4741(2) -0.0042(3)
+O3 O 0.6799(3) 0.7090(3) 0.0958(3)
+O4 O 0.5475(2) 0.6222(2) 0.0469(3)
+Fe1 Fe 0.51090(4) 0.48910(4) -0.01090(4)
+K1 K 0.92039(11) 0.42039(11) 0.07961(11)
+K2 K 0.50710(8) 0.62500 0.25710(8)
+K3 K 0.62500 0.87500 0.12500
+C1G C 0.4494(3) 0.5194(3) -0.2066(3)
+C1F C 0.4806(3) 0.2934(3) 0.0506(3)
+C2G C 0.3623(3) 0.5577(3) -0.1412(3)
+C2F C 0.4423(3) 0.3588(3) 0.1377(3)
+O1F O 0.4857(3) 0.2040(3) 0.0607(3)
+O1G O 0.4393(3) 0.5143(3) -0.2960(3)
+O2G O 0.5259(2) 0.4958(2) -0.1579(3)
+O2F O 0.5042(2) 0.3421(2) -0.0259(3)
+O3G O 0.2910(3) 0.5958(3) -0.1799(3)
+O3F O 0.4042(3) 0.3201(3) 0.2090(3)
+O4G O 0.3778(2) 0.5469(2) -0.0475(3)
+O4F O 0.4531(2) 0.4525(2) 0.1222(3)
+#END
+
+data_CSD_CIF_PHSNSB
+_audit_creation_date 1981-07-06
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD PHSNSB
+_database_code_depnum_ccdc_archive 'CCDC 1232634'
+_chemical_formula_sum 'C2 H6 N6 S3 Si2'
+_chemical_formula_moiety
+;
+C2 H6 N6 S3 Si2
+;
+_journal_coden_Cambridge 48
+_journal_volume 114
+_journal_year 1981
+_journal_page_first 201
+_journal_name_full 'Chem.Ber. '
+loop_
+_publ_author_name
+"H.W.Roesky"
+"M.Witt"
+"B.Krebs"
+"G.Henkel"
+"H.-J.Korte"
+_chemical_name_systematic
+;
+1,5-Dimethyl-3\l^4^,7\l^4^,10\l^4^-trithia-2,4,6,8,9,11-hexa-aza-1,5-disilabic
+yclo(3.3.3)undeca-2,3,6,7,9,10-hexaene
+;
+_cell_volume   1075.315
+_exptl_crystal_density_diffrn 1.646
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.025
+_refine_ls_wR_factor_gt 0.025
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 1/4-y,3/4+x,1/4+z
+5 1/4-x,3/4+z,1/4+y
+6 1/4-z,3/4+y,1/4+x
+7 1/2+x,1/2-y,-z
+8 1/2+z,1/2-x,-y
+9 1/2+y,1/2-z,-x
+10 3/4-y,3/4-x,3/4-z
+11 3/4-x,3/4-z,3/4-y
+12 3/4-z,3/4-y,3/4-x
+13 -x,1/2+y,1/2-z
+14 -z,1/2+x,1/2-y
+15 -y,1/2+z,1/2-x
+16 3/4+y,1/4+x,1/4-z
+17 3/4+x,1/4+z,1/4-y
+18 3/4+z,1/4+y,1/4-x
+19 1/2-x,-y,1/2+z
+20 1/2-z,-x,1/2+y
+21 1/2-y,-z,1/2+x
+22 1/4+y,1/4-x,3/4+z
+23 1/4+x,1/4-z,3/4+y
+24 1/4+z,1/4-y,3/4+x
+_cell_length_a 10.245(2)
+_cell_length_b 10.245(2)
+_cell_length_c 10.245(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+N 0.68
+S 1.02
+Si 1.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1 S 0.21238 0.53762 0.37500
+Si1 Si 0.48196 0.48196 0.48196
+N1 N 0.33828 0.56426 0.44570
+C1 C 0.58478 0.58478 0.58478
+H1 H 0.54250 0.58770 0.65900
+N1I N 0.18574 0.41172 0.30430
+N1A N 0.44570 0.33828 0.56426
+N1B N 0.56426 0.44570 0.33828
+H1A H 0.65900 0.54250 0.58770
+H1B H 0.58770 0.65900 0.54250
+Si1I Si 0.26804 0.26804 0.26804
+S1A S 0.37500 0.21238 0.53762
+S1B S 0.53762 0.37500 0.21238
+N1J N 0.41172 0.30430 0.18574
+N1K N 0.30430 0.18574 0.41172
+C1I C 0.16522 0.16522 0.16522
+H1I H 0.16230 0.20750 0.09100
+H1J H 0.20750 0.09100 0.16230
+H1K H 0.09100 0.16230 0.20750
+#END
+
+data_CSD_CIF_RORRAR
+_audit_creation_date 1998-01-27
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD RORRAR
+_database_code_depnum_ccdc_archive 'CCDC 1252076'
+_database_code_depnum_ccdc_fiz 'CSD 402460'
+_chemical_formula_sum 'C12 Fe2 K5 Na1 O24'
+_chemical_formula_moiety
+;
+2(C6 Fe1 O12 3-),5(K1 1+),Na1 1+
+;
+_journal_coden_Cambridge 643
+_journal_volume 212
+_journal_year 1997
+_journal_page_first 56
+_journal_name_full 'Z.Krist.Cryst.Mater. '
+loop_
+_publ_author_name
+"S.Henneicke"
+"R.Wartchow"
+_chemical_name_systematic
+;
+Penta-potassium sodium \D-bis(tris(oxalato)-iron(iii))
+;
+_cell_volume   2490.569
+_exptl_crystal_colour 'green'
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0238
+_refine_ls_wR_factor_gt 0.0238
+loop_
+_citation_database_id_CSD
+_citation_special_details
+NIRQOU "is a stereoisomer of this entry"
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/4-y,3/4+x,1/4+z
+3 1/2+x,1/2-y,-z
+4 z,x,y
+5 1/2-x,-y,1/2+z
+6 3/4+y,1/4+x,1/4-z
+7 1/4-x,3/4+z,1/4+y
+8 1/4+y,1/4-x,3/4+z
+9 -x,1/2+y,1/2-z
+10 1/2-z,-x,1/2+y
+11 3/4-y,3/4-x,3/4-z
+12 1/4+x,1/4-z,3/4+y
+13 1/2+z,1/2-x,-y
+14 3/4-x,3/4-z,3/4-y
+15 -z,1/2+x,1/2-y
+16 3/4+x,1/4+z,1/4-y
+17 y,z,x
+18 1/4-z,3/4+y,1/4+x
+19 3/4+z,1/4+y,1/4-x
+20 1/2+y,1/2-z,-x
+21 3/4-z,3/4-y,3/4-x
+22 -y,1/2+z,1/2-x
+23 1/2-y,-z,1/2+x
+24 1/4+z,1/4-y,3/4+x
+_cell_length_a 13.555(3)
+_cell_length_b 13.555(3)
+_cell_length_c 13.555(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Fe 1.34
+K 1.33
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe1 Fe 0.01091(4) 0.01091(4) 0.01091(4)
+C1 C 0.20632(28) -0.05102(29) -0.01989(29)
+C2 C 0.14126(29) -0.13775(29) -0.05791(25)
+O1 O 0.15765(18) 0.02575(19) 0.00394(19)
+O2 O 0.29559(20) -0.06100(21) -0.01455(24)
+O3 O 0.04735(19) -0.12231(18) -0.04577(19)
+O4 O 0.17915(21) -0.20954(20) -0.09536(21)
+K1 K 0.17112(9) 0.17112(9) 0.17112(9)
+K2 K 0.49312(6) 0.12500 0.24312(6)
+Na1 Na 0.37500 0.37500 0.37500
+O1C O 0.00394(18) 0.15765(19) 0.02575(19)
+C1C C -0.01989(28) 0.20632(29) -0.05102(29)
+C2C C -0.05791(29) 0.14126(29) -0.13775(25)
+O3C O -0.04577(19) 0.04735(18) -0.12231(19)
+O1P O 0.02575(18) 0.00394(19) 0.15765(19)
+C1P C -0.05102(28) -0.01989(29) 0.20632(29)
+C2P C -0.13775(29) -0.05791(29) 0.14126(25)
+O3P O -0.12231(19) -0.04577(18) 0.04735(19)
+O4P O -0.20954(21) -0.09536(20) 0.17915(21)
+O2P O -0.0610(2) -0.01455(21) 0.29559(24)
+O4C O -0.09536(21) 0.17915(20) -0.20954(21)
+O2C O -0.01455(20) 0.29559(21) -0.06100(24)
+#END
+
+data_CSD_CIF_SERNAE
+_audit_creation_date 1990-12-10
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SERNAE
+_database_code_depnum_ccdc_archive 'CCDC 1257590'
+_chemical_formula_sum 'C12 H15 Al2 Na3 O18'
+_chemical_formula_moiety
+;
+C6 H8 Al1 O9 1-,C6 H7 Al1 O9 2-,3(Na1 1+)
+;
+_journal_coden_Cambridge 3075
+_journal_year 1990
+_journal_page_first 699
+_journal_name_full 'J.Chem.Soc.Chem.Comm. '
+loop_
+_publ_author_name
+"F.R.Venema"
+"H.van Konigsveld"
+"J.A.Peters"
+"H.van Bekkum"
+_chemical_name_systematic
+;
+tris(Sodium hydrogen) bis(tris(glycolato-O,O')-aluminate(iii))
+;
+_cell_volume   2132.741
+_exptl_crystal_density_diffrn 1.782
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.029
+_refine_ls_wR_factor_gt 0.029
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 1/4-y,3/4+x,1/4+z
+5 1/4-x,3/4+z,1/4+y
+6 1/4-z,3/4+y,1/4+x
+7 1/2+x,1/2-y,-z
+8 1/2+z,1/2-x,-y
+9 1/2+y,1/2-z,-x
+10 3/4-y,3/4-x,3/4-z
+11 3/4-x,3/4-z,3/4-y
+12 3/4-z,3/4-y,3/4-x
+13 -x,1/2+y,1/2-z
+14 -z,1/2+x,1/2-y
+15 -y,1/2+z,1/2-x
+16 3/4+y,1/4+x,1/4-z
+17 3/4+x,1/4+z,1/4-y
+18 3/4+z,1/4+y,1/4-x
+19 1/2-x,-y,1/2+z
+20 1/2-z,-x,1/2+y
+21 1/2-y,-z,1/2+x
+22 1/4+y,1/4-x,3/4+z
+23 1/4+x,1/4-z,3/4+y
+24 1/4+z,1/4-y,3/4+x
+_cell_length_a 12.872(2)
+_cell_length_b 12.872(2)
+_cell_length_c 12.872(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.35
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1 Na 0.2552(1) 0.12500 0.00520
+Al1 Al -0.02284(8) -0.02284 -0.02284
+O1 O 0.1164(2) 0.0144(2) -0.0501(2)
+O2 O 0.2681(2) -0.0403(2) -0.1076(2)
+O3 O 0.0187(2) -0.1513(2) -0.0805(2)
+C1 C 0.1749(3) -0.0530(3) -0.0919(3)
+C2 C 0.1205(3) -0.1529(3) -0.1212(4)
+H1 H 0.128(5) -0.160(5) -0.194(5)
+H2 H 0.156(4) -0.210(4) -0.104(4)
+H3? H -0.039(5) -0.02110 -0.12500
+O1A O -0.0501(2) 0.1164(2) 0.0144(2)
+O1B O 0.0144(2) -0.0501(2) 0.1164(2)
+O3A O -0.0805(2) 0.0187(2) -0.1513(2)
+O3B O -0.1513(2) -0.0805(2) 0.0187(2)
+C1A C -0.0919(3) 0.1749(3) -0.0530(3)
+C1B C -0.0530(3) -0.0919(3) 0.1749(3)
+C2A C -0.1212(3) 0.1205(3) -0.1529(4)
+C2B C -0.1529(3) -0.1212(3) 0.1205(4)
+O2A O -0.1076(2) 0.2681(2) -0.0403(2)
+O2B O -0.0403(2) -0.1076(2) 0.2681(2)
+H1A H -0.194(5) 0.128(5) -0.160(5)
+H2A H -0.104(4) 0.156(4) -0.210(4)
+H1B H -0.160(5) -0.194(5) 0.128(5)
+H2B H -0.210(4) -0.104(4) 0.156(4)
+#END
+
+data_CSD_CIF_SERNAE10
+_audit_creation_date 1991-08-16
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD SERNAE10
+_chemical_formula_sum 'C12 H15 Al2 Na3 O18'
+_chemical_formula_moiety
+;
+C12 H15 Al2 O18 3-,3(Na1 1+)
+;
+_journal_coeditor_code "IUCr AL0390"
+_journal_coden_Cambridge 591
+_journal_volume 47
+_journal_year 1991
+_journal_page_first 289
+_journal_name_full 'Acta Crystallogr.,Sect.C:Cryst.Struct.Commun. '
+loop_
+_publ_author_name
+"H.van Koningsveld"
+"F.R.Venema"
+_chemical_name_systematic
+;
+Tri-sodium trihydrogen-bis(tris(\m~2~-glycolato)-aluminium(iii))
+;
+_cell_volume   2132.741
+_exptl_crystal_density_diffrn 1.782
+_exptl_special_details
+;
+Intramolecular hydrogen bonding is present
+
+;
+_diffrn_ambient_temperature ?
+_diffrn_special_details
+;
+The study was carried out at room temperature,in the range 283-303K
+
+;
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.028
+_refine_ls_wR_factor_gt 0.028
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 z,x,y
+3 y,z,x
+4 1/4-y,3/4+x,1/4+z
+5 1/4-x,3/4+z,1/4+y
+6 1/4-z,3/4+y,1/4+x
+7 1/2+x,1/2-y,-z
+8 1/2+z,1/2-x,-y
+9 1/2+y,1/2-z,-x
+10 3/4-y,3/4-x,3/4-z
+11 3/4-x,3/4-z,3/4-y
+12 3/4-z,3/4-y,3/4-x
+13 -x,1/2+y,1/2-z
+14 -z,1/2+x,1/2-y
+15 -y,1/2+z,1/2-x
+16 3/4+y,1/4+x,1/4-z
+17 3/4+x,1/4+z,1/4-y
+18 3/4+z,1/4+y,1/4-x
+19 1/2-x,-y,1/2+z
+20 1/2-z,-x,1/2+y
+21 1/2-y,-z,1/2+x
+22 1/4+y,1/4-x,3/4+z
+23 1/4+x,1/4-z,3/4+y
+24 1/4+z,1/4-y,3/4+x
+_cell_length_a 12.872(2)
+_cell_length_b 12.872(2)
+_cell_length_c 12.872(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 4
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+H 0.23
+Al 1.35
+Na 0.97
+O 0.68
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1 Al -0.02284(8) -0.02284 -0.02284
+Na1 Na 0.2552(1) 0.12500 0.00520
+O1 O 0.1164(2) 0.0144(2) -0.0501(2)
+O2 O 0.2681(2) -0.0403(2) -0.1076(2)
+O3 O 0.0187(2) -0.1513(2) -0.0805(2)
+C1 C 0.1749(3) -0.0530(3) -0.0919(3)
+C2 C 0.1205(3) -0.1529(3) -0.1212(4)
+H1 H 0.128(5) -0.160(5) -0.194(5)
+H2 H 0.156(4) -0.210(4) -0.104(4)
+H3 H -0.039(5) -0.21100 -0.12500
+O1A O -0.0501(2) 0.1164(2) 0.0144(2)
+O1B O 0.0144(2) -0.0501(2) 0.1164(2)
+O3A O -0.0805(2) 0.0187(2) -0.1513(2)
+O3B O -0.1513(2) -0.0805(2) 0.0187(2)
+O3I O -0.0987(2) -0.2687(2) -0.1695(2)
+C1A C -0.0919(3) 0.1749(3) -0.0530(3)
+C1B C -0.0530(3) -0.0919(3) 0.1749(3)
+C2A C -0.1212(3) 0.1205(3) -0.1529(4)
+H3A H -0.125(5) -0.03900 -0.21100
+C2B C -0.1529(3) -0.1212(3) 0.1205(4)
+H3B H -0.211(5) -0.12500 -0.03900
+Al1I Al -0.22716(8) -0.22716 -0.22716
+C2I C -0.0971(3) -0.3705(3) -0.1288(4)
+O2A O -0.1076(2) 0.2681(2) -0.0403(2)
+O2B O -0.0403(2) -0.1076(2) 0.2681(2)
+H1A H -0.194(5) 0.128(5) -0.160(5)
+H2A H -0.104(4) 0.156(4) -0.210(4)
+O3K O -0.1695(2) -0.0987(2) -0.2687(2)
+H1B H -0.160(5) -0.194(5) 0.128(5)
+H2B H -0.210(4) -0.104(4) 0.156(4)
+O3J O -0.2687(2) -0.1695(2) -0.0987(2)
+O1I O -0.2644(2) -0.3664(2) -0.1999(2)
+O1J O -0.3664(2) -0.1999(2) -0.2644(2)
+O1K O -0.1999(2) -0.2644(2) -0.3664(2)
+C1I C -0.1970(3) -0.4249(3) -0.1581(3)
+H1I H -0.090(5) -0.378(5) -0.056(5)
+H2I H -0.040(4) -0.406(4) -0.146(4)
+C2K C -0.1288(3) -0.0971(3) -0.3705(4)
+C2J C -0.3705(3) -0.1288(3) -0.0971(4)
+C1J C -0.4249(3) -0.1581(3) -0.1970(3)
+C1K C -0.1581(3) -0.1970(3) -0.4249(3)
+O2I O -0.2097(2) -0.5181(2) -0.1424(2)
+H1K H -0.056(5) -0.090(5) -0.378(5)
+H2K H -0.146(4) -0.040(4) -0.406(4)
+H1J H -0.378(5) -0.056(5) -0.090(5)
+H2J H -0.406(4) -0.146(4) -0.040(4)
+O2J O -0.5181(2) -0.1424(2) -0.2097(2)
+O2K O -0.1424(2) -0.2097(2) -0.5181(2)
+#END
+
+data_CSD_CIF_VIDTEK
+_audit_creation_date 2018-06-09
+_audit_creation_method CSD-ConQuest-V1
+_database_code_CSD VIDTEK
+_database_code_depnum_ccdc_archive 'CCDC 1563459'
+_chemical_formula_sum 'C6 Fe1 Na0.5 O12 Rb2.5'
+_chemical_formula_moiety
+;
+C6 Fe1 O12 3-,2.5(Rb1 1+),0.5(Na1 1+)
+;
+_journal_coeditor_code "hb7735"
+_journal_coden_Cambridge 1828
+_journal_volume 74
+_journal_year 2018
+_journal_page_first 905
+_journal_name_full 'Acta Crystallogr.,Sect.E:Cryst.Commun. '
+loop_
+_publ_author_name
+"O.E.Piro"
+"G.A.Echeverria"
+"E.J.Baran"
+_chemical_name_systematic
+;
+hemi-sodium rubidium tris(oxalato)-iron(iii)
+;
+_cell_volume   2627.786
+_exptl_crystal_colour 'green'
+_exptl_crystal_density_diffrn 2.756
+_exptl_special_details
+;
+Absolute configuration
+
+;
+_diffrn_ambient_temperature 293
+#These two values have been output from a single CSD field.
+_refine_ls_R_factor_gt 0.0316
+_refine_ls_wR_factor_gt 0.0316
+loop_
+_citation_database_id_CSD
+_citation_special_details
+VIDTAG "is a stereoisomer of this entry"
+_symmetry_cell_setting cubic
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,-y,1/2+z
+3 -x,1/2+y,1/2-z
+4 1/2+x,1/2-y,-z
+5 z,x,y
+6 1/2+z,1/2-x,-y
+7 1/2-z,-x,1/2+y
+8 -z,1/2+x,1/2-y
+9 y,z,x
+10 -y,1/2+z,1/2-x
+11 1/2+y,1/2-z,-x
+12 1/2-y,-z,1/2+x
+13 3/4+y,1/4+x,1/4-z
+14 3/4-y,3/4-x,3/4-z
+15 1/4+y,1/4-x,3/4+z
+16 1/4-y,3/4+x,1/4+z
+17 3/4+x,1/4+z,1/4-y
+18 1/4-x,3/4+z,1/4+y
+19 3/4-x,3/4-z,3/4-y
+20 1/4+x,1/4-z,3/4+y
+21 3/4+z,1/4+y,1/4-x
+22 1/4+z,1/4-y,3/4+x
+23 1/4-z,3/4+y,1/4+x
+24 3/4-z,3/4-y,3/4-x
+_cell_length_a 13.7995(3)
+_cell_length_b 13.7995(3)
+_cell_length_c 13.7995(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_formula_units_Z 8
+loop_
+_atom_type_symbol
+_atom_type_radius_bond
+C 0.68
+Fe 1.52
+Na 1.66
+O 0.68
+Rb 2.20
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.1366(5) 0.5569(4) 0.1362(5)
+C2 C 0.0522(5) 0.5213(5) 0.2007(5)
+O1 O 0.1218(3) 0.5418(3) 0.0448(3)
+O2 O -0.0240(3) 0.4977(3) 0.1533(3)
+O3 O 0.2066(3) 0.5967(3) 0.1708(3)
+O4 O 0.0621(4) 0.5170(4) 0.2882(4)
+Fe1 Fe -0.01047(6) 0.48953(6) 0.01047(6)
+Rb1 Rb 0.24391(5) 0.50609(5) 0.37500
+Rb2 Rb -0.07858(6) 0.57858(6) 0.42142(6)
+Na1 Na 0.37500 0.62500 0.12500
+C1G C -0.1362(5) 0.6366(4) -0.0569(5)
+C2G C -0.2007(5) 0.5522(5) -0.0213(5)
+O1G O -0.0448(3) 0.6218(3) -0.0418(3)
+O2G O -0.1533(3) 0.4760(3) 0.0023(3)
+O3G O -0.1708(3) 0.7066(3) -0.0967(3)
+O4G O -0.2882(4) 0.5621(4) -0.0170(4)
+C1J C 0.0569(5) 0.3638(4) -0.1366(5)
+C2J C 0.0213(5) 0.2993(5) -0.0522(5)
+O1J O 0.0418(3) 0.4552(3) -0.1218(3)
+O2J O -0.0023(3) 0.3467(3) 0.0240(3)
+O3J O 0.0967(3) 0.3292(3) -0.2066(3)
+O4J O 0.0170(4) 0.2118(4) -0.0621(4)
+#END
