@@ -1,0 +1,69 @@
+data_TIJDEW
+
+_audit_creation_date   2008-01-10
+_database_code_depnum_ccdc_archive   'CCDC 650053'
+_database_code_CSD   TIJDEW
+_chemical_formula_moiety   'C39 H51 N6 3+,Br1 1-,2(Cl4 Fe1 1-)'
+_chemical_name_systematic
+;
+1^2^,1^4^,1^6^,5^2^,5^4^,5^6^-Hexaethyl-1,5(1,3,5)-tribenzena-3,7,10(1,3)-tri-imidazoliabicyclo(3.3.3)undecaphane bromide bis(tetrachloro-iron(iii))
+;
+_journal_coden_Cambridge   182
+_journal_year   2007
+_journal_page_first   3634
+_journal_name_full   Chem.Commun.
+_journal_paper_doi   '10.1039/b708692j'
+_chemical_absolute_configuration   unk
+_diffrn_ambient_temperature   120
+_exptl_crystal_density_diffrn   1.566
+_refine_ls_R_factor_gt   0.0467
+_refine_ls_wR_factor_gt   0.0467
+_diffrn_radiation_probe   x-ray
+_symmetry_cell_setting   cubic
+_symmetry_space_group_name_H-M   'P 21 3'
+_symmetry_Int_Tables_number   198
+_space_group_name_Hall   'P 2ac 2ab 3'
+_cell_length_a   16.6032(7)
+_cell_length_b   16.6032(7)
+_cell_length_c   16.6032(7)
+_cell_angle_alpha   90
+_cell_angle_beta   90
+_cell_angle_gamma   90
+_cell_volume   4576.94
+_exptl_crystal_colour   orange
+_exptl_crystal_description   'triangular plate'
+_cell_formula_units_Z   4
+loop_
+_publ_author_name
+
+   C.E.Willans
+   K.M.Anderson
+   P.C.Junk
+   L.J.Barbour
+   J.W.Steed
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+
+   1   x,y,z
+   2   z,x,y
+   3   y,z,x
+   4   '1/2-y,-z,1/2+x'
+   5   '1/2+z,1/2-x,-y'
+   6   '-y,1/2+z,1/2-x'
+   7   '1/2-z,-x,1/2+y'
+   8   '-z,1/2+x,1/2-y'
+   9   '1/2+y,1/2-z,-x'
+   10   '1/2-x,-y,1/2+z'
+   11   '1/2+x,1/2-y,-z'
+   12   '-x,1/2+y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+
+   Br1   Br  0.25  0.25  0.25
